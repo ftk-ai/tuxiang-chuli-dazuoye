@@ -1,0 +1,26 @@
+# Data, model weights, and new experiment runs
+/datasets/
+/models/
+/outputs/
+/imagenette_cache/
+/imagenette_jpeg_preview.png
+/imagenette_jpeg_top1.csv
+/imagenette_jpeg_top1_flips.csv
+/imagenette_jpeg_top1_flip_previews.zip
+
+# Python, notebook, and editor files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.vscode/
+.idea/
+
+# Local temporary files
+/tmp/
+~$*
+.DS_Store
+Thumbs.db

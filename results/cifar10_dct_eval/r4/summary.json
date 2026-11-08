@@ -1,0 +1,26 @@
+{
+  "model": "edadaltocg/resnet18_cifar10",
+  "weights_sha256": "f656242526b567dbd46857276acbcfcb4ee74a7f8a7ae5e56557b7e8fa5d914a",
+  "device": "cpu",
+  "dataset": "CIFAR-10 test",
+  "samples": 10000,
+  "radius": 4.0,
+  "low_coefficients_per_block": 17,
+  "high_coefficients_per_block": 47,
+  "correct": {
+    "original": 9498,
+    "low": 6843,
+    "high": 4759
+  },
+  "top1_percent": {
+    "original": 94.98,
+    "low": 68.43,
+    "high": 47.589999999999996
+  },
+  "match_rule": "original correct AND low incorrect AND high correct",
+  "matches": 1263,
+  "match_percent": 12.63,
+  "low_correct_high_wrong": 3406,
+  "original_and_low_correct_high_wrong": 3295,
+  "example_pages": 158
+}

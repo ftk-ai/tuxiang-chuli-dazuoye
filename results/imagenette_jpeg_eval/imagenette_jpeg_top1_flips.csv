@@ -1,0 +1,1844 @@
+model,jpeg_quality,image_path,true_class,true_index,baseline_prediction,baseline_index,jpeg_prediction,jpeg_index
+resnet18,95,n02102040/n02102040_1302.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+resnet18,95,n02102040/n02102040_1870.JPEG,English springer,217,English springer,217,skunk,361
+resnet18,95,n02102040/n02102040_2702.JPEG,English springer,217,English springer,217,Sussex spaniel,220
+resnet18,95,n02102040/n02102040_3371.JPEG,English springer,217,English springer,217,Saint Bernard,247
+resnet18,95,n02102040/n02102040_3450.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+resnet18,95,n02102040/n02102040_4481.JPEG,English springer,217,English springer,217,Shih-Tzu,155
+resnet18,95,n02979186/n02979186_14471.JPEG,cassette player,482,cassette player,482,stage,819
+resnet18,95,n03000684/n03000684_15582.JPEG,chain saw,491,chain saw,491,bow,456
+resnet18,95,n03000684/n03000684_1752.JPEG,chain saw,491,chain saw,491,ski,795
+resnet18,95,n03000684/n03000684_27981.JPEG,chain saw,491,chain saw,491,reel,758
+resnet18,95,n03000684/n03000684_33461.JPEG,chain saw,491,chain saw,491,shoe shop,788
+resnet18,95,n03000684/n03000684_8651.JPEG,chain saw,491,chain saw,491,mountain bike,671
+resnet18,95,n03028079/n03028079_12090.JPEG,church,497,church,497,traffic light,920
+resnet18,95,n03028079/n03028079_14181.JPEG,church,497,church,497,altar,406
+resnet18,95,n03028079/n03028079_17461.JPEG,church,497,church,497,altar,406
+resnet18,95,n03028079/n03028079_2510.JPEG,church,497,church,497,monastery,663
+resnet18,95,n03028079/n03028079_26842.JPEG,church,497,church,497,alp,970
+resnet18,95,n03028079/n03028079_4661.JPEG,church,497,church,497,dome,538
+resnet18,95,n03028079/n03028079_5232.JPEG,church,497,church,497,monastery,663
+resnet18,95,n03028079/n03028079_6421.JPEG,church,497,church,497,monastery,663
+resnet18,95,n03394916/n03394916_31860.JPEG,French horn,566,French horn,566,sax,776
+resnet18,95,n03394916/n03394916_35801.JPEG,French horn,566,French horn,566,bearskin,439
+resnet18,95,n03394916/n03394916_38212.JPEG,French horn,566,French horn,566,prison,743
+resnet18,95,n03417042/n03417042_10612.JPEG,garbage truck,569,garbage truck,569,moving van,675
+resnet18,95,n03417042/n03417042_3600.JPEG,garbage truck,569,garbage truck,569,lifeboat,625
+resnet18,95,n03417042/n03417042_4491.JPEG,garbage truck,569,garbage truck,569,barbershop,424
+resnet18,95,n03425413/n03425413_14622.JPEG,gas pump,571,gas pump,571,oxygen mask,691
+resnet18,95,n03425413/n03425413_6271.JPEG,gas pump,571,gas pump,571,lighter,626
+resnet18,95,n03888257/n03888257_44112.JPEG,parachute,701,parachute,701,warplane,895
+vit_b_16,95,n02102040/n02102040_3212.JPEG,English springer,217,English springer,217,Brittany spaniel,215
+vit_b_16,95,n03000684/n03000684_502.JPEG,chain saw,491,chain saw,491,lumbermill,634
+vit_b_16,95,n03028079/n03028079_2060.JPEG,church,497,church,497,bell cote,442
+vit_b_16,95,n03028079/n03028079_33241.JPEG,church,497,church,497,monastery,663
+vit_b_16,95,n03028079/n03028079_8382.JPEG,church,497,church,497,monastery,663
+vit_b_16,95,n03394916/n03394916_38050.JPEG,French horn,566,French horn,566,bassoon,432
+vit_b_16,95,n03417042/n03417042_11000.JPEG,garbage truck,569,garbage truck,569,tow truck,864
+vit_b_16,95,n03417042/n03417042_9052.JPEG,garbage truck,569,garbage truck,569,tow truck,864
+resnet18,75,n02102040/n02102040_8012.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+resnet18,75,n03000684/n03000684_1752.JPEG,chain saw,491,chain saw,491,ski,795
+resnet18,75,n03000684/n03000684_33461.JPEG,chain saw,491,chain saw,491,shoe shop,788
+resnet18,75,n03000684/n03000684_8651.JPEG,chain saw,491,chain saw,491,mountain bike,671
+resnet18,75,n03028079/n03028079_14181.JPEG,church,497,church,497,altar,406
+resnet18,75,n03028079/n03028079_17461.JPEG,church,497,church,497,altar,406
+resnet18,75,n03028079/n03028079_3600.JPEG,church,497,church,497,castle,483
+resnet18,75,n03394916/n03394916_31860.JPEG,French horn,566,French horn,566,sax,776
+resnet18,75,n03417042/n03417042_12170.JPEG,garbage truck,569,garbage truck,569,moving van,675
+resnet18,75,n03417042/n03417042_3600.JPEG,garbage truck,569,garbage truck,569,lifeboat,625
+resnet18,75,n03417042/n03417042_4491.JPEG,garbage truck,569,garbage truck,569,barbershop,424
+resnet18,75,n03417042/n03417042_7061.JPEG,garbage truck,569,garbage truck,569,minibus,654
+resnet18,75,n03425413/n03425413_12711.JPEG,gas pump,571,gas pump,571,mailbox,637
+resnet18,75,n03445777/n03445777_5300.JPEG,golf ball,574,golf ball,574,croquet ball,522
+vit_b_16,75,n03028079/n03028079_122592.JPEG,church,497,church,497,trailer truck,867
+vit_b_16,75,n03028079/n03028079_2060.JPEG,church,497,church,497,bell cote,442
+vit_b_16,75,n03028079/n03028079_71550.JPEG,church,497,church,497,organ,687
+resnet18,50,n01440764/n01440764_11750.JPEG,tench,0,tench,0,barracouta,389
+resnet18,50,n01440764/n01440764_9572.JPEG,tench,0,tench,0,coho,391
+resnet18,50,n01440764/n01440764_9621.JPEG,tench,0,tench,0,banded gecko,38
+resnet18,50,n02102040/ILSVRC2012_val_00017370.JPEG,English springer,217,English springer,217,Saint Bernard,247
+resnet18,50,n02102040/ILSVRC2012_val_00023440.JPEG,English springer,217,English springer,217,Irish water spaniel,221
+resnet18,50,n02102040/n02102040_1222.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+resnet18,50,n02102040/n02102040_1430.JPEG,English springer,217,English springer,217,English setter,212
+resnet18,50,n02102040/n02102040_1450.JPEG,English springer,217,English springer,217,English setter,212
+resnet18,50,n02102040/n02102040_1840.JPEG,English springer,217,English springer,217,Welsh springer spaniel,218
+resnet18,50,n02102040/n02102040_1841.JPEG,English springer,217,English springer,217,Weimaraner,178
+resnet18,50,n02102040/n02102040_1870.JPEG,English springer,217,English springer,217,skunk,361
+resnet18,50,n02102040/n02102040_2700.JPEG,English springer,217,English springer,217,English setter,212
+resnet18,50,n02102040/n02102040_2702.JPEG,English springer,217,English springer,217,Sussex spaniel,220
+resnet18,50,n02102040/n02102040_2941.JPEG,English springer,217,English springer,217,Saint Bernard,247
+resnet18,50,n02102040/n02102040_3371.JPEG,English springer,217,English springer,217,Saint Bernard,247
+resnet18,50,n02102040/n02102040_3450.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+resnet18,50,n02102040/n02102040_3530.JPEG,English springer,217,English springer,217,Border collie,232
+resnet18,50,n02102040/n02102040_4342.JPEG,English springer,217,English springer,217,cocker spaniel,219
+resnet18,50,n02102040/n02102040_4481.JPEG,English springer,217,English springer,217,Shih-Tzu,155
+resnet18,50,n02102040/n02102040_4560.JPEG,English springer,217,English springer,217,English setter,212
+resnet18,50,n02102040/n02102040_4701.JPEG,English springer,217,English springer,217,English setter,212
+resnet18,50,n02102040/n02102040_4851.JPEG,English springer,217,English springer,217,Saint Bernard,247
+resnet18,50,n02102040/n02102040_4960.JPEG,English springer,217,English springer,217,Saint Bernard,247
+resnet18,50,n02102040/n02102040_5170.JPEG,English springer,217,English springer,217,English setter,212
+resnet18,50,n02102040/n02102040_5390.JPEG,English springer,217,English springer,217,Border collie,232
+resnet18,50,n02102040/n02102040_5802.JPEG,English springer,217,English springer,217,Boston bull,195
+resnet18,50,n02102040/n02102040_5850.JPEG,English springer,217,English springer,217,cocker spaniel,219
+resnet18,50,n02102040/n02102040_5871.JPEG,English springer,217,English springer,217,Border collie,232
+resnet18,50,n02102040/n02102040_6081.JPEG,English springer,217,English springer,217,English setter,212
+resnet18,50,n02102040/n02102040_6532.JPEG,English springer,217,English springer,217,Walker hound,166
+resnet18,50,n02102040/n02102040_682.JPEG,English springer,217,English springer,217,English setter,212
+resnet18,50,n02102040/n02102040_6880.JPEG,English springer,217,English springer,217,Border collie,232
+resnet18,50,n02102040/n02102040_7002.JPEG,English springer,217,English springer,217,Welsh springer spaniel,218
+resnet18,50,n02102040/n02102040_8061.JPEG,English springer,217,English springer,217,English setter,212
+resnet18,50,n02102040/n02102040_940.JPEG,English springer,217,English springer,217,cocker spaniel,219
+resnet18,50,n02979186/n02979186_12072.JPEG,cassette player,482,cassette player,482,tape player,848
+resnet18,50,n02979186/n02979186_12101.JPEG,cassette player,482,cassette player,482,CD player,485
+resnet18,50,n02979186/n02979186_14471.JPEG,cassette player,482,cassette player,482,upright,881
+resnet18,50,n02979186/n02979186_14712.JPEG,cassette player,482,cassette player,482,microwave,651
+resnet18,50,n02979186/n02979186_16101.JPEG,cassette player,482,cassette player,482,jeep,609
+resnet18,50,n02979186/n02979186_162.JPEG,cassette player,482,cassette player,482,combination lock,507
+resnet18,50,n02979186/n02979186_19390.JPEG,cassette player,482,cassette player,482,tape player,848
+resnet18,50,n02979186/n02979186_21472.JPEG,cassette player,482,cassette player,482,sports car,817
+resnet18,50,n02979186/n02979186_22871.JPEG,cassette player,482,cassette player,482,tape player,848
+resnet18,50,n02979186/n02979186_23650.JPEG,cassette player,482,cassette player,482,stopwatch,826
+resnet18,50,n02979186/n02979186_2742.JPEG,cassette player,482,cassette player,482,tape player,848
+resnet18,50,n02979186/n02979186_442.JPEG,cassette player,482,cassette player,482,tape player,848
+resnet18,50,n03000684/n03000684_10131.JPEG,chain saw,491,chain saw,491,punching bag,747
+resnet18,50,n03000684/n03000684_16861.JPEG,chain saw,491,chain saw,491,lumbermill,634
+resnet18,50,n03000684/n03000684_1752.JPEG,chain saw,491,chain saw,491,ski,795
+resnet18,50,n03000684/n03000684_2350.JPEG,chain saw,491,chain saw,491,gas pump,571
+resnet18,50,n03000684/n03000684_25951.JPEG,chain saw,491,chain saw,491,proboscis monkey,376
+resnet18,50,n03000684/n03000684_2972.JPEG,chain saw,491,chain saw,491,bluetick,164
+resnet18,50,n03000684/n03000684_33461.JPEG,chain saw,491,chain saw,491,marimba,642
+resnet18,50,n03000684/n03000684_35201.JPEG,chain saw,491,chain saw,491,assault rifle,413
+resnet18,50,n03000684/n03000684_36420.JPEG,chain saw,491,chain saw,491,rain barrel,756
+resnet18,50,n03000684/n03000684_501.JPEG,chain saw,491,chain saw,491,mountain bike,671
+resnet18,50,n03000684/n03000684_590.JPEG,chain saw,491,chain saw,491,sturgeon,394
+resnet18,50,n03000684/n03000684_6822.JPEG,chain saw,491,chain saw,491,scabbard,777
+resnet18,50,n03000684/n03000684_9440.JPEG,chain saw,491,chain saw,491,chainlink fence,489
+resnet18,50,n03000684/n03000684_9741.JPEG,chain saw,491,chain saw,491,viaduct,888
+resnet18,50,n03028079/ILSVRC2012_val_00034021.JPEG,church,497,church,497,castle,483
+resnet18,50,n03028079/n03028079_10060.JPEG,church,497,church,497,monastery,663
+resnet18,50,n03028079/n03028079_10111.JPEG,church,497,church,497,monastery,663
+resnet18,50,n03028079/n03028079_102.JPEG,church,497,church,497,monastery,663
+resnet18,50,n03028079/n03028079_12681.JPEG,church,497,church,497,castle,483
+resnet18,50,n03028079/n03028079_1381.JPEG,church,497,church,497,castle,483
+resnet18,50,n03028079/n03028079_14181.JPEG,church,497,church,497,altar,406
+resnet18,50,n03028079/n03028079_16361.JPEG,church,497,church,497,monastery,663
+resnet18,50,n03028079/n03028079_17171.JPEG,church,497,church,497,monastery,663
+resnet18,50,n03028079/n03028079_17461.JPEG,church,497,church,497,altar,406
+resnet18,50,n03028079/n03028079_2510.JPEG,church,497,church,497,monastery,663
+resnet18,50,n03028079/n03028079_25391.JPEG,church,497,church,497,altar,406
+resnet18,50,n03028079/n03028079_26221.JPEG,church,497,church,497,monastery,663
+resnet18,50,n03028079/n03028079_26601.JPEG,church,497,church,497,bell cote,442
+resnet18,50,n03028079/n03028079_26810.JPEG,church,497,church,497,bell cote,442
+resnet18,50,n03028079/n03028079_26842.JPEG,church,497,church,497,alp,970
+resnet18,50,n03028079/n03028079_27060.JPEG,church,497,church,497,megalith,649
+resnet18,50,n03028079/n03028079_28242.JPEG,church,497,church,497,castle,483
+resnet18,50,n03028079/n03028079_28432.JPEG,church,497,church,497,mosque,668
+resnet18,50,n03028079/n03028079_29012.JPEG,church,497,church,497,dome,538
+resnet18,50,n03028079/n03028079_29062.JPEG,church,497,church,497,barn,425
+resnet18,50,n03028079/n03028079_2951.JPEG,church,497,church,497,vault,884
+resnet18,50,n03028079/n03028079_30642.JPEG,church,497,church,497,monastery,663
+resnet18,50,n03028079/n03028079_3600.JPEG,church,497,church,497,castle,483
+resnet18,50,n03028079/n03028079_362.JPEG,church,497,church,497,obelisk,682
+resnet18,50,n03028079/n03028079_43102.JPEG,church,497,church,497,monastery,663
+resnet18,50,n03028079/n03028079_4320.JPEG,church,497,church,497,worm fence,912
+resnet18,50,n03028079/n03028079_4661.JPEG,church,497,church,497,altar,406
+resnet18,50,n03028079/n03028079_4821.JPEG,church,497,church,497,monastery,663
+resnet18,50,n03028079/n03028079_49281.JPEG,church,497,church,497,altar,406
+resnet18,50,n03028079/n03028079_58650.JPEG,church,497,church,497,castle,483
+resnet18,50,n03028079/n03028079_7271.JPEG,church,497,church,497,monastery,663
+resnet18,50,n03028079/n03028079_8161.JPEG,church,497,church,497,monastery,663
+resnet18,50,n03028079/n03028079_9920.JPEG,church,497,church,497,obelisk,682
+resnet18,50,n03394916/ILSVRC2012_val_00025430.JPEG,French horn,566,French horn,566,oboe,683
+resnet18,50,n03394916/n03394916_26270.JPEG,French horn,566,French horn,566,sax,776
+resnet18,50,n03394916/n03394916_29130.JPEG,French horn,566,French horn,566,sax,776
+resnet18,50,n03394916/n03394916_30451.JPEG,French horn,566,French horn,566,theater curtain,854
+resnet18,50,n03394916/n03394916_33221.JPEG,French horn,566,French horn,566,sax,776
+resnet18,50,n03394916/n03394916_33940.JPEG,French horn,566,French horn,566,cock,7
+resnet18,50,n03394916/n03394916_33942.JPEG,French horn,566,French horn,566,trombone,875
+resnet18,50,n03394916/n03394916_35731.JPEG,French horn,566,French horn,566,jinrikisha,612
+resnet18,50,n03394916/n03394916_35801.JPEG,French horn,566,French horn,566,bearskin,439
+resnet18,50,n03394916/n03394916_36532.JPEG,French horn,566,French horn,566,typewriter keyboard,878
+resnet18,50,n03394916/n03394916_36782.JPEG,French horn,566,French horn,566,oboe,683
+resnet18,50,n03394916/n03394916_37960.JPEG,French horn,566,French horn,566,cornet,513
+resnet18,50,n03394916/n03394916_38212.JPEG,French horn,566,French horn,566,prison,743
+resnet18,50,n03394916/n03394916_5011.JPEG,French horn,566,French horn,566,cloak,501
+resnet18,50,n03394916/n03394916_54391.JPEG,French horn,566,French horn,566,shield,787
+resnet18,50,n03394916/n03394916_60810.JPEG,French horn,566,French horn,566,unicycle,880
+resnet18,50,n03417042/n03417042_10612.JPEG,garbage truck,569,garbage truck,569,moving van,675
+resnet18,50,n03417042/n03417042_11222.JPEG,garbage truck,569,garbage truck,569,moving van,675
+resnet18,50,n03417042/n03417042_11441.JPEG,garbage truck,569,garbage truck,569,moving van,675
+resnet18,50,n03417042/n03417042_12170.JPEG,garbage truck,569,garbage truck,569,moving van,675
+resnet18,50,n03417042/n03417042_12322.JPEG,garbage truck,569,garbage truck,569,lumbermill,634
+resnet18,50,n03417042/n03417042_1631.JPEG,garbage truck,569,garbage truck,569,moving van,675
+resnet18,50,n03417042/n03417042_16370.JPEG,garbage truck,569,garbage truck,569,trailer truck,867
+resnet18,50,n03417042/n03417042_1651.JPEG,garbage truck,569,garbage truck,569,moving van,675
+resnet18,50,n03417042/n03417042_1770.JPEG,garbage truck,569,garbage truck,569,half track,586
+resnet18,50,n03417042/n03417042_28062.JPEG,garbage truck,569,garbage truck,569,trailer truck,867
+resnet18,50,n03417042/n03417042_441.JPEG,garbage truck,569,garbage truck,569,lumbermill,634
+resnet18,50,n03417042/n03417042_4491.JPEG,garbage truck,569,garbage truck,569,barbershop,424
+resnet18,50,n03417042/n03417042_5090.JPEG,garbage truck,569,garbage truck,569,submarine,833
+resnet18,50,n03417042/n03417042_5952.JPEG,garbage truck,569,garbage truck,569,trailer truck,867
+resnet18,50,n03417042/n03417042_7061.JPEG,garbage truck,569,garbage truck,569,minibus,654
+resnet18,50,n03417042/n03417042_7472.JPEG,garbage truck,569,garbage truck,569,harvester,595
+resnet18,50,n03417042/n03417042_802.JPEG,garbage truck,569,garbage truck,569,worm fence,912
+resnet18,50,n03417042/n03417042_9121.JPEG,garbage truck,569,garbage truck,569,jeep,609
+resnet18,50,n03417042/n03417042_9132.JPEG,garbage truck,569,garbage truck,569,moving van,675
+resnet18,50,n03425413/ILSVRC2012_val_00020951.JPEG,gas pump,571,gas pump,571,torch,862
+resnet18,50,n03425413/ILSVRC2012_val_00032250.JPEG,gas pump,571,gas pump,571,mailbox,637
+resnet18,50,n03425413/ILSVRC2012_val_00035211.JPEG,gas pump,571,gas pump,571,street sign,919
+resnet18,50,n03425413/n03425413_12672.JPEG,gas pump,571,gas pump,571,switch,844
+resnet18,50,n03425413/n03425413_12982.JPEG,gas pump,571,gas pump,571,boathouse,449
+resnet18,50,n03425413/n03425413_13100.JPEG,gas pump,571,gas pump,571,bow,456
+resnet18,50,n03425413/n03425413_13170.JPEG,gas pump,571,gas pump,571,restaurant,762
+resnet18,50,n03425413/n03425413_13772.JPEG,gas pump,571,gas pump,571,restaurant,762
+resnet18,50,n03425413/n03425413_14040.JPEG,gas pump,571,gas pump,571,solar dish,807
+resnet18,50,n03425413/n03425413_14361.JPEG,gas pump,571,gas pump,571,pay-phone,707
+resnet18,50,n03425413/n03425413_14622.JPEG,gas pump,571,gas pump,571,moped,665
+resnet18,50,n03425413/n03425413_14672.JPEG,gas pump,571,gas pump,571,brass,458
+resnet18,50,n03425413/n03425413_20742.JPEG,gas pump,571,gas pump,571,toyshop,865
+resnet18,50,n03425413/n03425413_21180.JPEG,gas pump,571,gas pump,571,moped,665
+resnet18,50,n03425413/n03425413_21341.JPEG,gas pump,571,gas pump,571,tobacco shop,860
+resnet18,50,n03425413/n03425413_27392.JPEG,gas pump,571,gas pump,571,monastery,663
+resnet18,50,n03425413/n03425413_6271.JPEG,gas pump,571,gas pump,571,lighter,626
+resnet18,50,n03445777/n03445777_10520.JPEG,golf ball,574,golf ball,574,dugong,149
+resnet18,50,n03445777/n03445777_11122.JPEG,golf ball,574,golf ball,574,baseball,429
+resnet18,50,n03445777/n03445777_11401.JPEG,golf ball,574,golf ball,574,croquet ball,522
+resnet18,50,n03445777/n03445777_20572.JPEG,golf ball,574,golf ball,574,croquet ball,522
+resnet18,50,n03445777/n03445777_2251.JPEG,golf ball,574,golf ball,574,croquet ball,522
+resnet18,50,n03445777/n03445777_340.JPEG,golf ball,574,golf ball,574,tennis ball,852
+resnet18,50,n03445777/n03445777_4061.JPEG,golf ball,574,golf ball,574,soccer ball,805
+resnet18,50,n03445777/n03445777_4650.JPEG,golf ball,574,golf ball,574,tennis ball,852
+resnet18,50,n03445777/n03445777_5300.JPEG,golf ball,574,golf ball,574,croquet ball,522
+resnet18,50,n03445777/n03445777_6752.JPEG,golf ball,574,golf ball,574,croquet ball,522
+resnet18,50,n03445777/n03445777_7711.JPEG,golf ball,574,golf ball,574,water tower,900
+resnet18,50,n03888257/n03888257_12400.JPEG,parachute,701,parachute,701,ski,795
+resnet18,50,n03888257/n03888257_12811.JPEG,parachute,701,parachute,701,stretcher,830
+resnet18,50,n03888257/n03888257_19211.JPEG,parachute,701,parachute,701,loggerhead,33
+resnet18,50,n03888257/n03888257_44112.JPEG,parachute,701,parachute,701,warplane,895
+resnet18,50,n03888257/n03888257_6662.JPEG,parachute,701,parachute,701,hammer,587
+vit_b_16,50,n02102040/ILSVRC2012_val_00023440.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+vit_b_16,50,n02102040/n02102040_1301.JPEG,English springer,217,English springer,217,crutch,523
+vit_b_16,50,n02102040/n02102040_1450.JPEG,English springer,217,English springer,217,standard poodle,267
+vit_b_16,50,n02102040/n02102040_3212.JPEG,English springer,217,English springer,217,Brittany spaniel,215
+vit_b_16,50,n02102040/n02102040_3792.JPEG,English springer,217,English springer,217,Japanese spaniel,152
+vit_b_16,50,n02102040/n02102040_4411.JPEG,English springer,217,English springer,217,Welsh springer spaniel,218
+vit_b_16,50,n02102040/n02102040_6050.JPEG,English springer,217,English springer,217,Brittany spaniel,215
+vit_b_16,50,n02102040/n02102040_6072.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+vit_b_16,50,n02102040/n02102040_620.JPEG,English springer,217,English springer,217,English setter,212
+vit_b_16,50,n02102040/n02102040_7092.JPEG,English springer,217,English springer,217,cocker spaniel,219
+vit_b_16,50,n02102040/n02102040_791.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+vit_b_16,50,n02102040/n02102040_960.JPEG,English springer,217,English springer,217,crossword puzzle,918
+vit_b_16,50,n02979186/n02979186_13851.JPEG,cassette player,482,cassette player,482,park bench,703
+vit_b_16,50,n02979186/n02979186_13950.JPEG,cassette player,482,cassette player,482,cassette,481
+vit_b_16,50,n02979186/n02979186_14471.JPEG,cassette player,482,cassette player,482,tape player,848
+vit_b_16,50,n02979186/n02979186_18131.JPEG,cassette player,482,cassette player,482,tape player,848
+vit_b_16,50,n02979186/n02979186_3200.JPEG,cassette player,482,cassette player,482,tape player,848
+vit_b_16,50,n02979186/n02979186_4852.JPEG,cassette player,482,cassette player,482,tape player,848
+vit_b_16,50,n02979186/n02979186_5980.JPEG,cassette player,482,cassette player,482,tape player,848
+vit_b_16,50,n02979186/n02979186_6851.JPEG,cassette player,482,cassette player,482,tape player,848
+vit_b_16,50,n02979186/n02979186_960.JPEG,cassette player,482,cassette player,482,stove,827
+vit_b_16,50,n03000684/n03000684_17261.JPEG,chain saw,491,chain saw,491,lumbermill,634
+vit_b_16,50,n03000684/n03000684_21831.JPEG,chain saw,491,chain saw,491,lumbermill,634
+vit_b_16,50,n03000684/n03000684_2252.JPEG,chain saw,491,chain saw,491,lumbermill,634
+vit_b_16,50,n03000684/n03000684_3470.JPEG,chain saw,491,chain saw,491,lumbermill,634
+vit_b_16,50,n03000684/n03000684_502.JPEG,chain saw,491,chain saw,491,lumbermill,634
+vit_b_16,50,n03028079/ILSVRC2012_val_00028310.JPEG,church,497,church,497,monastery,663
+vit_b_16,50,n03028079/n03028079_10020.JPEG,church,497,church,497,monastery,663
+vit_b_16,50,n03028079/n03028079_10040.JPEG,church,497,church,497,altar,406
+vit_b_16,50,n03028079/n03028079_10141.JPEG,church,497,church,497,beacon,437
+vit_b_16,50,n03028079/n03028079_102.JPEG,church,497,church,497,monastery,663
+vit_b_16,50,n03028079/n03028079_10451.JPEG,church,497,church,497,altar,406
+vit_b_16,50,n03028079/n03028079_1090.JPEG,church,497,church,497,bell cote,442
+vit_b_16,50,n03028079/n03028079_11250.JPEG,church,497,church,497,beacon,437
+vit_b_16,50,n03028079/n03028079_11401.JPEG,church,497,church,497,monastery,663
+vit_b_16,50,n03028079/n03028079_12681.JPEG,church,497,church,497,bell cote,442
+vit_b_16,50,n03028079/n03028079_13311.JPEG,church,497,church,497,obelisk,682
+vit_b_16,50,n03028079/n03028079_14192.JPEG,church,497,church,497,vault,884
+vit_b_16,50,n03028079/n03028079_14860.JPEG,church,497,church,497,vault,884
+vit_b_16,50,n03028079/n03028079_14920.JPEG,church,497,church,497,bell cote,442
+vit_b_16,50,n03028079/n03028079_16080.JPEG,church,497,church,497,monastery,663
+vit_b_16,50,n03028079/n03028079_16660.JPEG,church,497,church,497,monastery,663
+vit_b_16,50,n03028079/n03028079_17461.JPEG,church,497,church,497,altar,406
+vit_b_16,50,n03028079/n03028079_2060.JPEG,church,497,church,497,bell cote,442
+vit_b_16,50,n03028079/n03028079_2342.JPEG,church,497,church,497,megalith,649
+vit_b_16,50,n03028079/n03028079_24602.JPEG,church,497,church,497,monastery,663
+vit_b_16,50,n03028079/n03028079_24642.JPEG,church,497,church,497,bell cote,442
+vit_b_16,50,n03028079/n03028079_25612.JPEG,church,497,church,497,monastery,663
+vit_b_16,50,n03028079/n03028079_25680.JPEG,church,497,church,497,dome,538
+vit_b_16,50,n03028079/n03028079_26571.JPEG,church,497,church,497,vault,884
+vit_b_16,50,n03028079/n03028079_2842.JPEG,church,497,church,497,monastery,663
+vit_b_16,50,n03028079/n03028079_29410.JPEG,church,497,church,497,monastery,663
+vit_b_16,50,n03028079/n03028079_30751.JPEG,church,497,church,497,beacon,437
+vit_b_16,50,n03028079/n03028079_3081.JPEG,church,497,church,497,monastery,663
+vit_b_16,50,n03028079/n03028079_3192.JPEG,church,497,church,497,palace,698
+vit_b_16,50,n03028079/n03028079_3320.JPEG,church,497,church,497,monastery,663
+vit_b_16,50,n03028079/n03028079_33241.JPEG,church,497,church,497,monastery,663
+vit_b_16,50,n03028079/n03028079_34051.JPEG,church,497,church,497,lakeside,975
+vit_b_16,50,n03028079/n03028079_3432.JPEG,church,497,church,497,dome,538
+vit_b_16,50,n03028079/n03028079_35911.JPEG,church,497,church,497,monastery,663
+vit_b_16,50,n03028079/n03028079_41101.JPEG,church,497,church,497,geyser,974
+vit_b_16,50,n03028079/n03028079_4612.JPEG,church,497,church,497,monastery,663
+vit_b_16,50,n03028079/n03028079_46722.JPEG,church,497,church,497,bell cote,442
+vit_b_16,50,n03028079/n03028079_50060.JPEG,church,497,church,497,bell cote,442
+vit_b_16,50,n03028079/n03028079_5432.JPEG,church,497,church,497,bell cote,442
+vit_b_16,50,n03028079/n03028079_5690.JPEG,church,497,church,497,bell cote,442
+vit_b_16,50,n03028079/n03028079_61951.JPEG,church,497,church,497,monastery,663
+vit_b_16,50,n03028079/n03028079_6912.JPEG,church,497,church,497,beacon,437
+vit_b_16,50,n03028079/n03028079_71550.JPEG,church,497,church,497,organ,687
+vit_b_16,50,n03028079/n03028079_80352.JPEG,church,497,church,497,monastery,663
+vit_b_16,50,n03028079/n03028079_8151.JPEG,church,497,church,497,bell cote,442
+vit_b_16,50,n03028079/n03028079_8382.JPEG,church,497,church,497,monastery,663
+vit_b_16,50,n03028079/n03028079_8971.JPEG,church,497,church,497,vault,884
+vit_b_16,50,n03028079/n03028079_9500.JPEG,church,497,church,497,monastery,663
+vit_b_16,50,n03394916/n03394916_29541.JPEG,French horn,566,French horn,566,sax,776
+vit_b_16,50,n03394916/n03394916_30460.JPEG,French horn,566,French horn,566,bassoon,432
+vit_b_16,50,n03394916/n03394916_33352.JPEG,French horn,566,French horn,566,sax,776
+vit_b_16,50,n03394916/n03394916_36002.JPEG,French horn,566,French horn,566,breastplate,461
+vit_b_16,50,n03394916/n03394916_37571.JPEG,French horn,566,French horn,566,cornet,513
+vit_b_16,50,n03394916/n03394916_38050.JPEG,French horn,566,French horn,566,oboe,683
+vit_b_16,50,n03394916/n03394916_45760.JPEG,French horn,566,French horn,566,trombone,875
+vit_b_16,50,n03394916/n03394916_47110.JPEG,French horn,566,French horn,566,street sign,919
+vit_b_16,50,n03394916/n03394916_7000.JPEG,French horn,566,French horn,566,bookcase,453
+vit_b_16,50,n03417042/n03417042_11000.JPEG,garbage truck,569,garbage truck,569,tow truck,864
+vit_b_16,50,n03417042/n03417042_1651.JPEG,garbage truck,569,garbage truck,569,moving van,675
+vit_b_16,50,n03417042/n03417042_18072.JPEG,garbage truck,569,garbage truck,569,trailer truck,867
+vit_b_16,50,n03417042/n03417042_21270.JPEG,garbage truck,569,garbage truck,569,crane,517
+vit_b_16,50,n03417042/n03417042_28400.JPEG,garbage truck,569,garbage truck,569,solar dish,807
+vit_b_16,50,n03417042/n03417042_3192.JPEG,garbage truck,569,garbage truck,569,moving van,675
+vit_b_16,50,n03417042/n03417042_3242.JPEG,garbage truck,569,garbage truck,569,tow truck,864
+vit_b_16,50,n03417042/n03417042_4462.JPEG,garbage truck,569,garbage truck,569,projectile,744
+vit_b_16,50,n03417042/n03417042_4511.JPEG,garbage truck,569,garbage truck,569,mobile home,660
+vit_b_16,50,n03417042/n03417042_8081.JPEG,garbage truck,569,garbage truck,569,snowplow,803
+vit_b_16,50,n03425413/n03425413_15571.JPEG,gas pump,571,gas pump,571,pay-phone,707
+vit_b_16,50,n03425413/n03425413_18830.JPEG,gas pump,571,gas pump,571,minivan,656
+vit_b_16,50,n03425413/n03425413_23312.JPEG,gas pump,571,gas pump,571,boathouse,449
+vit_b_16,50,n03425413/n03425413_9051.JPEG,gas pump,571,gas pump,571,car mirror,475
+vit_b_16,50,n03445777/n03445777_10750.JPEG,golf ball,574,golf ball,574,seashore,978
+vit_b_16,50,n03445777/n03445777_13672.JPEG,golf ball,574,golf ball,574,ping-pong ball,722
+vit_b_16,50,n03445777/n03445777_8712.JPEG,golf ball,574,golf ball,574,earthstar,995
+vit_b_16,50,n03888257/n03888257_12301.JPEG,parachute,701,parachute,701,ibex,350
+vit_b_16,50,n03888257/n03888257_13072.JPEG,parachute,701,parachute,701,Irish wolfhound,170
+vit_b_16,50,n03888257/n03888257_17031.JPEG,parachute,701,parachute,701,airship,405
+resnet18,25,n01440764/n01440764_11612.JPEG,tench,0,tench,0,stretcher,830
+resnet18,25,n01440764/n01440764_11750.JPEG,tench,0,tench,0,barracouta,389
+resnet18,25,n01440764/n01440764_2002.JPEG,tench,0,tench,0,barracouta,389
+resnet18,25,n01440764/n01440764_2271.JPEG,tench,0,tench,0,barracouta,389
+resnet18,25,n01440764/n01440764_25361.JPEG,tench,0,tench,0,mud turtle,35
+resnet18,25,n01440764/n01440764_6380.JPEG,tench,0,tench,0,barracouta,389
+resnet18,25,n01440764/n01440764_9491.JPEG,tench,0,tench,0,barracouta,389
+resnet18,25,n01440764/n01440764_9621.JPEG,tench,0,tench,0,platypus,103
+resnet18,25,n02102040/ILSVRC2012_val_00017370.JPEG,English springer,217,English springer,217,Saint Bernard,247
+resnet18,25,n02102040/ILSVRC2012_val_00023440.JPEG,English springer,217,English springer,217,Sussex spaniel,220
+resnet18,25,n02102040/n02102040_1112.JPEG,English springer,217,English springer,217,Walker hound,166
+resnet18,25,n02102040/n02102040_1222.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+resnet18,25,n02102040/n02102040_1302.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+resnet18,25,n02102040/n02102040_1430.JPEG,English springer,217,English springer,217,English setter,212
+resnet18,25,n02102040/n02102040_1450.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+resnet18,25,n02102040/n02102040_1592.JPEG,English springer,217,English springer,217,Sussex spaniel,220
+resnet18,25,n02102040/n02102040_1771.JPEG,English springer,217,English springer,217,borzoi,169
+resnet18,25,n02102040/n02102040_1830.JPEG,English springer,217,English springer,217,Saluki,176
+resnet18,25,n02102040/n02102040_1840.JPEG,English springer,217,English springer,217,Welsh springer spaniel,218
+resnet18,25,n02102040/n02102040_1841.JPEG,English springer,217,English springer,217,sloth bear,297
+resnet18,25,n02102040/n02102040_1870.JPEG,English springer,217,English springer,217,skunk,361
+resnet18,25,n02102040/n02102040_2110.JPEG,English springer,217,English springer,217,English setter,212
+resnet18,25,n02102040/n02102040_2700.JPEG,English springer,217,English springer,217,Border collie,232
+resnet18,25,n02102040/n02102040_2702.JPEG,English springer,217,English springer,217,Sussex spaniel,220
+resnet18,25,n02102040/n02102040_2830.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+resnet18,25,n02102040/n02102040_2941.JPEG,English springer,217,English springer,217,English setter,212
+resnet18,25,n02102040/n02102040_2961.JPEG,English springer,217,English springer,217,Welsh springer spaniel,218
+resnet18,25,n02102040/n02102040_3030.JPEG,English springer,217,English springer,217,Border collie,232
+resnet18,25,n02102040/n02102040_3161.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+resnet18,25,n02102040/n02102040_3212.JPEG,English springer,217,English springer,217,English setter,212
+resnet18,25,n02102040/n02102040_3381.JPEG,English springer,217,English springer,217,English setter,212
+resnet18,25,n02102040/n02102040_341.JPEG,English springer,217,English springer,217,Scotch terrier,199
+resnet18,25,n02102040/n02102040_3450.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+resnet18,25,n02102040/n02102040_3532.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+resnet18,25,n02102040/n02102040_3610.JPEG,English springer,217,English springer,217,Bernese mountain dog,239
+resnet18,25,n02102040/n02102040_3621.JPEG,English springer,217,English springer,217,English setter,212
+resnet18,25,n02102040/n02102040_4342.JPEG,English springer,217,English springer,217,cocker spaniel,219
+resnet18,25,n02102040/n02102040_4411.JPEG,English springer,217,English springer,217,Welsh springer spaniel,218
+resnet18,25,n02102040/n02102040_4481.JPEG,English springer,217,English springer,217,Shih-Tzu,155
+resnet18,25,n02102040/n02102040_4560.JPEG,English springer,217,English springer,217,English setter,212
+resnet18,25,n02102040/n02102040_4701.JPEG,English springer,217,English springer,217,Brittany spaniel,215
+resnet18,25,n02102040/n02102040_4872.JPEG,English springer,217,English springer,217,Border collie,232
+resnet18,25,n02102040/n02102040_4960.JPEG,English springer,217,English springer,217,bluetick,164
+resnet18,25,n02102040/n02102040_5061.JPEG,English springer,217,English springer,217,Brittany spaniel,215
+resnet18,25,n02102040/n02102040_5170.JPEG,English springer,217,English springer,217,English setter,212
+resnet18,25,n02102040/n02102040_5802.JPEG,English springer,217,English springer,217,Newfoundland,256
+resnet18,25,n02102040/n02102040_5871.JPEG,English springer,217,English springer,217,Border collie,232
+resnet18,25,n02102040/n02102040_5881.JPEG,English springer,217,English springer,217,Border collie,232
+resnet18,25,n02102040/n02102040_5950.JPEG,English springer,217,English springer,217,Border collie,232
+resnet18,25,n02102040/n02102040_6081.JPEG,English springer,217,English springer,217,English setter,212
+resnet18,25,n02102040/n02102040_620.JPEG,English springer,217,English springer,217,whippet,172
+resnet18,25,n02102040/n02102040_6201.JPEG,English springer,217,English springer,217,Sussex spaniel,220
+resnet18,25,n02102040/n02102040_6532.JPEG,English springer,217,English springer,217,badger,362
+resnet18,25,n02102040/n02102040_6622.JPEG,English springer,217,English springer,217,Welsh springer spaniel,218
+resnet18,25,n02102040/n02102040_6630.JPEG,English springer,217,English springer,217,clumber,216
+resnet18,25,n02102040/n02102040_6682.JPEG,English springer,217,English springer,217,Sussex spaniel,220
+resnet18,25,n02102040/n02102040_671.JPEG,English springer,217,English springer,217,Brittany spaniel,215
+resnet18,25,n02102040/n02102040_6770.JPEG,English springer,217,English springer,217,cocker spaniel,219
+resnet18,25,n02102040/n02102040_682.JPEG,English springer,217,English springer,217,English setter,212
+resnet18,25,n02102040/n02102040_6880.JPEG,English springer,217,English springer,217,bluetick,164
+resnet18,25,n02102040/n02102040_791.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+resnet18,25,n02102040/n02102040_8012.JPEG,English springer,217,English springer,217,wire-haired fox terrier,188
+resnet18,25,n02102040/n02102040_8061.JPEG,English springer,217,English springer,217,English setter,212
+resnet18,25,n02102040/n02102040_922.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+resnet18,25,n02102040/n02102040_970.JPEG,English springer,217,English springer,217,Saluki,176
+resnet18,25,n02979186/ILSVRC2012_val_00028911.JPEG,cassette player,482,cassette player,482,tape player,848
+resnet18,25,n02979186/n02979186_10532.JPEG,cassette player,482,cassette player,482,cassette,481
+resnet18,25,n02979186/n02979186_12101.JPEG,cassette player,482,cassette player,482,tape player,848
+resnet18,25,n02979186/n02979186_13950.JPEG,cassette player,482,cassette player,482,tape player,848
+resnet18,25,n02979186/n02979186_14471.JPEG,cassette player,482,cassette player,482,theater curtain,854
+resnet18,25,n02979186/n02979186_14712.JPEG,cassette player,482,cassette player,482,home theater,598
+resnet18,25,n02979186/n02979186_2511.JPEG,cassette player,482,cassette player,482,cassette,481
+resnet18,25,n02979186/n02979186_442.JPEG,cassette player,482,cassette player,482,tape player,848
+resnet18,25,n02979186/n02979186_5612.JPEG,cassette player,482,cassette player,482,hand-held computer,590
+resnet18,25,n03000684/ILSVRC2012_val_00011951.JPEG,chain saw,491,chain saw,491,carpenter's kit,477
+resnet18,25,n03000684/n03000684_10131.JPEG,chain saw,491,chain saw,491,punching bag,747
+resnet18,25,n03000684/n03000684_10692.JPEG,chain saw,491,chain saw,491,stretcher,830
+resnet18,25,n03000684/n03000684_10860.JPEG,chain saw,491,chain saw,491,toyshop,865
+resnet18,25,n03000684/n03000684_12570.JPEG,chain saw,491,chain saw,491,shopping basket,790
+resnet18,25,n03000684/n03000684_12642.JPEG,chain saw,491,chain saw,491,stretcher,830
+resnet18,25,n03000684/n03000684_14650.JPEG,chain saw,491,chain saw,491,birdhouse,448
+resnet18,25,n03000684/n03000684_15582.JPEG,chain saw,491,chain saw,491,bow,456
+resnet18,25,n03000684/n03000684_16242.JPEG,chain saw,491,chain saw,491,lumbermill,634
+resnet18,25,n03000684/n03000684_16372.JPEG,chain saw,491,chain saw,491,bow,456
+resnet18,25,n03000684/n03000684_16861.JPEG,chain saw,491,chain saw,491,lumbermill,634
+resnet18,25,n03000684/n03000684_1692.JPEG,chain saw,491,chain saw,491,lumbermill,634
+resnet18,25,n03000684/n03000684_1752.JPEG,chain saw,491,chain saw,491,hartebeest,351
+resnet18,25,n03000684/n03000684_18521.JPEG,chain saw,491,chain saw,491,whistle,902
+resnet18,25,n03000684/n03000684_19591.JPEG,chain saw,491,chain saw,491,barn spider,73
+resnet18,25,n03000684/n03000684_2350.JPEG,chain saw,491,chain saw,491,rain barrel,756
+resnet18,25,n03000684/n03000684_23960.JPEG,chain saw,491,chain saw,491,mousetrap,674
+resnet18,25,n03000684/n03000684_2472.JPEG,chain saw,491,chain saw,491,lumbermill,634
+resnet18,25,n03000684/n03000684_25951.JPEG,chain saw,491,chain saw,491,indri,384
+resnet18,25,n03000684/n03000684_27981.JPEG,chain saw,491,chain saw,491,coho,391
+resnet18,25,n03000684/n03000684_2972.JPEG,chain saw,491,chain saw,491,Greater Swiss Mountain dog,238
+resnet18,25,n03000684/n03000684_30930.JPEG,chain saw,491,chain saw,491,lumbermill,634
+resnet18,25,n03000684/n03000684_33461.JPEG,chain saw,491,chain saw,491,steel drum,822
+resnet18,25,n03000684/n03000684_35201.JPEG,chain saw,491,chain saw,491,assault rifle,413
+resnet18,25,n03000684/n03000684_36420.JPEG,chain saw,491,chain saw,491,cannon,471
+resnet18,25,n03000684/n03000684_4012.JPEG,chain saw,491,chain saw,491,stretcher,830
+resnet18,25,n03000684/n03000684_590.JPEG,chain saw,491,chain saw,491,sturgeon,394
+resnet18,25,n03000684/n03000684_6142.JPEG,chain saw,491,chain saw,491,bow,456
+resnet18,25,n03000684/n03000684_6822.JPEG,chain saw,491,chain saw,491,lumbermill,634
+resnet18,25,n03000684/n03000684_731.JPEG,chain saw,491,chain saw,491,carpenter's kit,477
+resnet18,25,n03000684/n03000684_802.JPEG,chain saw,491,chain saw,491,Afghan hound,160
+resnet18,25,n03000684/n03000684_8502.JPEG,chain saw,491,chain saw,491,crane,517
+resnet18,25,n03000684/n03000684_8651.JPEG,chain saw,491,chain saw,491,mountain bike,671
+resnet18,25,n03000684/n03000684_9741.JPEG,chain saw,491,chain saw,491,submarine,833
+resnet18,25,n03000684/n03000684_9942.JPEG,chain saw,491,chain saw,491,breastplate,461
+resnet18,25,n03028079/ILSVRC2012_val_00003682.JPEG,church,497,church,497,cinema,498
+resnet18,25,n03028079/ILSVRC2012_val_00034021.JPEG,church,497,church,497,castle,483
+resnet18,25,n03028079/n03028079_1002.JPEG,church,497,church,497,bell cote,442
+resnet18,25,n03028079/n03028079_10020.JPEG,church,497,church,497,monastery,663
+resnet18,25,n03028079/n03028079_10032.JPEG,church,497,church,497,palace,698
+resnet18,25,n03028079/n03028079_10060.JPEG,church,497,church,497,monastery,663
+resnet18,25,n03028079/n03028079_10111.JPEG,church,497,church,497,monastery,663
+resnet18,25,n03028079/n03028079_102.JPEG,church,497,church,497,monastery,663
+resnet18,25,n03028079/n03028079_11591.JPEG,church,497,church,497,bell cote,442
+resnet18,25,n03028079/n03028079_12090.JPEG,church,497,church,497,traffic light,920
+resnet18,25,n03028079/n03028079_12681.JPEG,church,497,church,497,castle,483
+resnet18,25,n03028079/n03028079_12812.JPEG,church,497,church,497,bell cote,442
+resnet18,25,n03028079/n03028079_13021.JPEG,church,497,church,497,bell cote,442
+resnet18,25,n03028079/n03028079_1381.JPEG,church,497,church,497,castle,483
+resnet18,25,n03028079/n03028079_14181.JPEG,church,497,church,497,altar,406
+resnet18,25,n03028079/n03028079_14210.JPEG,church,497,church,497,library,624
+resnet18,25,n03028079/n03028079_14770.JPEG,church,497,church,497,bell cote,442
+resnet18,25,n03028079/n03028079_16361.JPEG,church,497,church,497,monastery,663
+resnet18,25,n03028079/n03028079_16660.JPEG,church,497,church,497,monastery,663
+resnet18,25,n03028079/n03028079_17171.JPEG,church,497,church,497,monastery,663
+resnet18,25,n03028079/n03028079_17461.JPEG,church,497,church,497,altar,406
+resnet18,25,n03028079/n03028079_17690.JPEG,church,497,church,497,palace,698
+resnet18,25,n03028079/n03028079_2510.JPEG,church,497,church,497,palace,698
+resnet18,25,n03028079/n03028079_26221.JPEG,church,497,church,497,monastery,663
+resnet18,25,n03028079/n03028079_26601.JPEG,church,497,church,497,bell cote,442
+resnet18,25,n03028079/n03028079_26810.JPEG,church,497,church,497,bell cote,442
+resnet18,25,n03028079/n03028079_26842.JPEG,church,497,church,497,alp,970
+resnet18,25,n03028079/n03028079_27060.JPEG,church,497,church,497,monastery,663
+resnet18,25,n03028079/n03028079_27511.JPEG,church,497,church,497,monastery,663
+resnet18,25,n03028079/n03028079_27902.JPEG,church,497,church,497,monastery,663
+resnet18,25,n03028079/n03028079_28242.JPEG,church,497,church,497,bell cote,442
+resnet18,25,n03028079/n03028079_29012.JPEG,church,497,church,497,dome,538
+resnet18,25,n03028079/n03028079_29412.JPEG,church,497,church,497,organ,687
+resnet18,25,n03028079/n03028079_2951.JPEG,church,497,church,497,organ,687
+resnet18,25,n03028079/n03028079_30181.JPEG,church,497,church,497,boathouse,449
+resnet18,25,n03028079/n03028079_3042.JPEG,church,497,church,497,boathouse,449
+resnet18,25,n03028079/n03028079_30642.JPEG,church,497,church,497,monastery,663
+resnet18,25,n03028079/n03028079_30751.JPEG,church,497,church,497,monastery,663
+resnet18,25,n03028079/n03028079_32110.JPEG,church,497,church,497,monastery,663
+resnet18,25,n03028079/n03028079_33241.JPEG,church,497,church,497,bell cote,442
+resnet18,25,n03028079/n03028079_33260.JPEG,church,497,church,497,palace,698
+resnet18,25,n03028079/n03028079_35911.JPEG,church,497,church,497,monastery,663
+resnet18,25,n03028079/n03028079_3600.JPEG,church,497,church,497,castle,483
+resnet18,25,n03028079/n03028079_362.JPEG,church,497,church,497,worm fence,912
+resnet18,25,n03028079/n03028079_40711.JPEG,church,497,church,497,monastery,663
+resnet18,25,n03028079/n03028079_43102.JPEG,church,497,church,497,monastery,663
+resnet18,25,n03028079/n03028079_4320.JPEG,church,497,church,497,worm fence,912
+resnet18,25,n03028079/n03028079_4661.JPEG,church,497,church,497,altar,406
+resnet18,25,n03028079/n03028079_4821.JPEG,church,497,church,497,palace,698
+resnet18,25,n03028079/n03028079_49281.JPEG,church,497,church,497,altar,406
+resnet18,25,n03028079/n03028079_5232.JPEG,church,497,church,497,monastery,663
+resnet18,25,n03028079/n03028079_5401.JPEG,church,497,church,497,beacon,437
+resnet18,25,n03028079/n03028079_58650.JPEG,church,497,church,497,castle,483
+resnet18,25,n03028079/n03028079_6421.JPEG,church,497,church,497,monastery,663
+resnet18,25,n03028079/n03028079_6831.JPEG,church,497,church,497,monastery,663
+resnet18,25,n03028079/n03028079_7271.JPEG,church,497,church,497,monastery,663
+resnet18,25,n03028079/n03028079_76700.JPEG,church,497,church,497,palace,698
+resnet18,25,n03028079/n03028079_8161.JPEG,church,497,church,497,monastery,663
+resnet18,25,n03028079/n03028079_8531.JPEG,church,497,church,497,altar,406
+resnet18,25,n03028079/n03028079_9662.JPEG,church,497,church,497,bell cote,442
+resnet18,25,n03028079/n03028079_9920.JPEG,church,497,church,497,throne,857
+resnet18,25,n03394916/ILSVRC2012_val_00025430.JPEG,French horn,566,French horn,566,oboe,683
+resnet18,25,n03394916/n03394916_26270.JPEG,French horn,566,French horn,566,sax,776
+resnet18,25,n03394916/n03394916_29130.JPEG,French horn,566,French horn,566,sax,776
+resnet18,25,n03394916/n03394916_29142.JPEG,French horn,566,French horn,566,tobacco shop,860
+resnet18,25,n03394916/n03394916_29580.JPEG,French horn,566,French horn,566,panpipe,699
+resnet18,25,n03394916/n03394916_29722.JPEG,French horn,566,French horn,566,bassoon,432
+resnet18,25,n03394916/n03394916_29940.JPEG,French horn,566,French horn,566,vestment,887
+resnet18,25,n03394916/n03394916_30451.JPEG,French horn,566,French horn,566,theater curtain,854
+resnet18,25,n03394916/n03394916_33221.JPEG,French horn,566,French horn,566,sax,776
+resnet18,25,n03394916/n03394916_33942.JPEG,French horn,566,French horn,566,trombone,875
+resnet18,25,n03394916/n03394916_35731.JPEG,French horn,566,French horn,566,jinrikisha,612
+resnet18,25,n03394916/n03394916_35801.JPEG,French horn,566,French horn,566,bearskin,439
+resnet18,25,n03394916/n03394916_36432.JPEG,French horn,566,French horn,566,cornet,513
+resnet18,25,n03394916/n03394916_36532.JPEG,French horn,566,French horn,566,typewriter keyboard,878
+resnet18,25,n03394916/n03394916_36782.JPEG,French horn,566,French horn,566,oboe,683
+resnet18,25,n03394916/n03394916_36941.JPEG,French horn,566,French horn,566,trombone,875
+resnet18,25,n03394916/n03394916_36982.JPEG,French horn,566,French horn,566,park bench,703
+resnet18,25,n03394916/n03394916_37321.JPEG,French horn,566,French horn,566,wig,903
+resnet18,25,n03394916/n03394916_38050.JPEG,French horn,566,French horn,566,oboe,683
+resnet18,25,n03394916/n03394916_38212.JPEG,French horn,566,French horn,566,prison,743
+resnet18,25,n03394916/n03394916_38530.JPEG,French horn,566,French horn,566,trombone,875
+resnet18,25,n03394916/n03394916_41871.JPEG,French horn,566,French horn,566,leatherback turtle,34
+resnet18,25,n03394916/n03394916_42452.JPEG,French horn,566,French horn,566,muzzle,676
+resnet18,25,n03394916/n03394916_47022.JPEG,French horn,566,French horn,566,steel drum,822
+resnet18,25,n03394916/n03394916_5011.JPEG,French horn,566,French horn,566,cloak,501
+resnet18,25,n03394916/n03394916_54320.JPEG,French horn,566,French horn,566,trombone,875
+resnet18,25,n03394916/n03394916_54391.JPEG,French horn,566,French horn,566,gong,577
+resnet18,25,n03394916/n03394916_54531.JPEG,French horn,566,French horn,566,trombone,875
+resnet18,25,n03394916/n03394916_60810.JPEG,French horn,566,French horn,566,unicycle,880
+resnet18,25,n03417042/ILSVRC2012_val_00034001.JPEG,garbage truck,569,garbage truck,569,trailer truck,867
+resnet18,25,n03417042/n03417042_10612.JPEG,garbage truck,569,garbage truck,569,moving van,675
+resnet18,25,n03417042/n03417042_10642.JPEG,garbage truck,569,garbage truck,569,trailer truck,867
+resnet18,25,n03417042/n03417042_11441.JPEG,garbage truck,569,garbage truck,569,moving van,675
+resnet18,25,n03417042/n03417042_12170.JPEG,garbage truck,569,garbage truck,569,moving van,675
+resnet18,25,n03417042/n03417042_12232.JPEG,garbage truck,569,garbage truck,569,moving van,675
+resnet18,25,n03417042/n03417042_12300.JPEG,garbage truck,569,garbage truck,569,half track,586
+resnet18,25,n03417042/n03417042_12322.JPEG,garbage truck,569,garbage truck,569,lumbermill,634
+resnet18,25,n03417042/n03417042_1631.JPEG,garbage truck,569,garbage truck,569,moving van,675
+resnet18,25,n03417042/n03417042_1651.JPEG,garbage truck,569,garbage truck,569,moving van,675
+resnet18,25,n03417042/n03417042_1770.JPEG,garbage truck,569,garbage truck,569,half track,586
+resnet18,25,n03417042/n03417042_20340.JPEG,garbage truck,569,garbage truck,569,moving van,675
+resnet18,25,n03417042/n03417042_24980.JPEG,garbage truck,569,garbage truck,569,mobile home,660
+resnet18,25,n03417042/n03417042_29361.JPEG,garbage truck,569,garbage truck,569,trailer truck,867
+resnet18,25,n03417042/n03417042_441.JPEG,garbage truck,569,garbage truck,569,amphibian,408
+resnet18,25,n03417042/n03417042_4520.JPEG,garbage truck,569,garbage truck,569,mobile home,660
+resnet18,25,n03417042/n03417042_5090.JPEG,garbage truck,569,garbage truck,569,submarine,833
+resnet18,25,n03417042/n03417042_5301.JPEG,garbage truck,569,garbage truck,569,trailer truck,867
+resnet18,25,n03417042/n03417042_5952.JPEG,garbage truck,569,garbage truck,569,trailer truck,867
+resnet18,25,n03417042/n03417042_6691.JPEG,garbage truck,569,garbage truck,569,thresher,856
+resnet18,25,n03417042/n03417042_7021.JPEG,garbage truck,569,garbage truck,569,harvester,595
+resnet18,25,n03417042/n03417042_7061.JPEG,garbage truck,569,garbage truck,569,minibus,654
+resnet18,25,n03417042/n03417042_7472.JPEG,garbage truck,569,garbage truck,569,thresher,856
+resnet18,25,n03417042/n03417042_7670.JPEG,garbage truck,569,garbage truck,569,snowplow,803
+resnet18,25,n03417042/n03417042_802.JPEG,garbage truck,569,garbage truck,569,thresher,856
+resnet18,25,n03417042/n03417042_8822.JPEG,garbage truck,569,garbage truck,569,snowplow,803
+resnet18,25,n03417042/n03417042_9121.JPEG,garbage truck,569,garbage truck,569,jeep,609
+resnet18,25,n03425413/ILSVRC2012_val_00020951.JPEG,gas pump,571,gas pump,571,beacon,437
+resnet18,25,n03425413/n03425413_12672.JPEG,gas pump,571,gas pump,571,analog clock,409
+resnet18,25,n03425413/n03425413_12711.JPEG,gas pump,571,gas pump,571,mailbox,637
+resnet18,25,n03425413/n03425413_12951.JPEG,gas pump,571,gas pump,571,mailbag,636
+resnet18,25,n03425413/n03425413_12982.JPEG,gas pump,571,gas pump,571,boathouse,449
+resnet18,25,n03425413/n03425413_13100.JPEG,gas pump,571,gas pump,571,jinrikisha,612
+resnet18,25,n03425413/n03425413_13170.JPEG,gas pump,571,gas pump,571,restaurant,762
+resnet18,25,n03425413/n03425413_13770.JPEG,gas pump,571,gas pump,571,cash machine,480
+resnet18,25,n03425413/n03425413_13772.JPEG,gas pump,571,gas pump,571,thatch,853
+resnet18,25,n03425413/n03425413_13821.JPEG,gas pump,571,gas pump,571,safe,771
+resnet18,25,n03425413/n03425413_14040.JPEG,gas pump,571,gas pump,571,stretcher,830
+resnet18,25,n03425413/n03425413_14622.JPEG,gas pump,571,gas pump,571,oxygen mask,691
+resnet18,25,n03425413/n03425413_15070.JPEG,gas pump,571,gas pump,571,garbage truck,569
+resnet18,25,n03425413/n03425413_15131.JPEG,gas pump,571,gas pump,571,boathouse,449
+resnet18,25,n03425413/n03425413_16661.JPEG,gas pump,571,gas pump,571,streetcar,829
+resnet18,25,n03425413/n03425413_18910.JPEG,gas pump,571,gas pump,571,oxygen mask,691
+resnet18,25,n03425413/n03425413_19102.JPEG,gas pump,571,gas pump,571,pay-phone,707
+resnet18,25,n03425413/n03425413_19282.JPEG,gas pump,571,gas pump,571,chain saw,491
+resnet18,25,n03425413/n03425413_20122.JPEG,gas pump,571,gas pump,571,chain mail,490
+resnet18,25,n03425413/n03425413_20360.JPEG,gas pump,571,gas pump,571,barbershop,424
+resnet18,25,n03425413/n03425413_20711.JPEG,gas pump,571,gas pump,571,hand-held computer,590
+resnet18,25,n03425413/n03425413_20742.JPEG,gas pump,571,gas pump,571,toyshop,865
+resnet18,25,n03425413/n03425413_212.JPEG,gas pump,571,gas pump,571,tobacco shop,860
+resnet18,25,n03425413/n03425413_21341.JPEG,gas pump,571,gas pump,571,tobacco shop,860
+resnet18,25,n03425413/n03425413_2141.JPEG,gas pump,571,gas pump,571,vending machine,886
+resnet18,25,n03425413/n03425413_21591.JPEG,gas pump,571,gas pump,571,turnstile,877
+resnet18,25,n03425413/n03425413_21592.JPEG,gas pump,571,gas pump,571,comic book,917
+resnet18,25,n03425413/n03425413_2671.JPEG,gas pump,571,gas pump,571,rock beauty,392
+resnet18,25,n03425413/n03425413_27392.JPEG,gas pump,571,gas pump,571,pay-phone,707
+resnet18,25,n03425413/n03425413_6851.JPEG,gas pump,571,gas pump,571,ski,795
+resnet18,25,n03425413/n03425413_7772.JPEG,gas pump,571,gas pump,571,totem pole,863
+resnet18,25,n03445777/n03445777_10030.JPEG,golf ball,574,golf ball,574,maraca,641
+resnet18,25,n03445777/n03445777_10520.JPEG,golf ball,574,golf ball,574,dugong,149
+resnet18,25,n03445777/n03445777_10750.JPEG,golf ball,574,golf ball,574,promontory,976
+resnet18,25,n03445777/n03445777_110.JPEG,golf ball,574,golf ball,574,plastic bag,728
+resnet18,25,n03445777/n03445777_11122.JPEG,golf ball,574,golf ball,574,ping-pong ball,722
+resnet18,25,n03445777/n03445777_11401.JPEG,golf ball,574,golf ball,574,croquet ball,522
+resnet18,25,n03445777/n03445777_11642.JPEG,golf ball,574,golf ball,574,gong,577
+resnet18,25,n03445777/n03445777_14531.JPEG,golf ball,574,golf ball,574,microphone,650
+resnet18,25,n03445777/n03445777_1971.JPEG,golf ball,574,golf ball,574,spotlight,818
+resnet18,25,n03445777/n03445777_20572.JPEG,golf ball,574,golf ball,574,croquet ball,522
+resnet18,25,n03445777/n03445777_2251.JPEG,golf ball,574,golf ball,574,croquet ball,522
+resnet18,25,n03445777/n03445777_340.JPEG,golf ball,574,golf ball,574,tennis ball,852
+resnet18,25,n03445777/n03445777_4061.JPEG,golf ball,574,golf ball,574,soccer ball,805
+resnet18,25,n03445777/n03445777_4650.JPEG,golf ball,574,golf ball,574,tennis ball,852
+resnet18,25,n03445777/n03445777_5300.JPEG,golf ball,574,golf ball,574,croquet ball,522
+resnet18,25,n03445777/n03445777_5790.JPEG,golf ball,574,golf ball,574,pill bottle,720
+resnet18,25,n03445777/n03445777_6071.JPEG,golf ball,574,golf ball,574,spotlight,818
+resnet18,25,n03445777/n03445777_7251.JPEG,golf ball,574,golf ball,574,soccer ball,805
+resnet18,25,n03445777/n03445777_7580.JPEG,golf ball,574,golf ball,574,pole,733
+resnet18,25,n03445777/n03445777_7652.JPEG,golf ball,574,golf ball,574,ping-pong ball,722
+resnet18,25,n03445777/n03445777_7931.JPEG,golf ball,574,golf ball,574,electric ray,5
+resnet18,25,n03445777/n03445777_9900.JPEG,golf ball,574,golf ball,574,balloon,417
+resnet18,25,n03888257/n03888257_11450.JPEG,parachute,701,parachute,701,water tower,900
+resnet18,25,n03888257/n03888257_12400.JPEG,parachute,701,parachute,701,ski,795
+resnet18,25,n03888257/n03888257_12811.JPEG,parachute,701,parachute,701,stretcher,830
+resnet18,25,n03888257/n03888257_12842.JPEG,parachute,701,parachute,701,space shuttle,812
+resnet18,25,n03888257/n03888257_13600.JPEG,parachute,701,parachute,701,ski,795
+resnet18,25,n03888257/n03888257_14090.JPEG,parachute,701,parachute,701,corkscrew,512
+resnet18,25,n03888257/n03888257_17340.JPEG,parachute,701,parachute,701,solar dish,807
+resnet18,25,n03888257/n03888257_18441.JPEG,parachute,701,parachute,701,ibex,350
+resnet18,25,n03888257/n03888257_18560.JPEG,parachute,701,parachute,701,ski,795
+resnet18,25,n03888257/n03888257_19211.JPEG,parachute,701,parachute,701,jellyfish,107
+resnet18,25,n03888257/n03888257_23571.JPEG,parachute,701,parachute,701,jellyfish,107
+resnet18,25,n03888257/n03888257_30402.JPEG,parachute,701,parachute,701,drilling platform,540
+resnet18,25,n03888257/n03888257_33481.JPEG,parachute,701,parachute,701,seashore,978
+resnet18,25,n03888257/n03888257_35962.JPEG,parachute,701,parachute,701,warplane,895
+resnet18,25,n03888257/n03888257_37362.JPEG,parachute,701,parachute,701,barn spider,73
+resnet18,25,n03888257/n03888257_44112.JPEG,parachute,701,parachute,701,warplane,895
+resnet18,25,n03888257/n03888257_4580.JPEG,parachute,701,parachute,701,tick,78
+resnet18,25,n03888257/n03888257_49381.JPEG,parachute,701,parachute,701,airship,405
+resnet18,25,n03888257/n03888257_66361.JPEG,parachute,701,parachute,701,seashore,978
+resnet18,25,n03888257/n03888257_6662.JPEG,parachute,701,parachute,701,hammer,587
+resnet18,25,n03888257/n03888257_7011.JPEG,parachute,701,parachute,701,airship,405
+resnet18,25,n03888257/n03888257_7610.JPEG,parachute,701,parachute,701,geyser,974
+resnet18,25,n03888257/n03888257_7831.JPEG,parachute,701,parachute,701,ski,795
+vit_b_16,25,n02102040/ILSVRC2012_val_00023242.JPEG,English springer,217,English springer,217,English setter,212
+vit_b_16,25,n02102040/ILSVRC2012_val_00023440.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+vit_b_16,25,n02102040/ILSVRC2012_val_00027182.JPEG,English springer,217,English springer,217,Brittany spaniel,215
+vit_b_16,25,n02102040/n02102040_1112.JPEG,English springer,217,English springer,217,Walker hound,166
+vit_b_16,25,n02102040/n02102040_1200.JPEG,English springer,217,English springer,217,Welsh springer spaniel,218
+vit_b_16,25,n02102040/n02102040_1301.JPEG,English springer,217,English springer,217,crutch,523
+vit_b_16,25,n02102040/n02102040_1302.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+vit_b_16,25,n02102040/n02102040_1450.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+vit_b_16,25,n02102040/n02102040_1632.JPEG,English springer,217,English springer,217,Tibetan terrier,200
+vit_b_16,25,n02102040/n02102040_2051.JPEG,English springer,217,English springer,217,Sussex spaniel,220
+vit_b_16,25,n02102040/n02102040_2572.JPEG,English springer,217,English springer,217,miniature schnauzer,196
+vit_b_16,25,n02102040/n02102040_2700.JPEG,English springer,217,English springer,217,Newfoundland,256
+vit_b_16,25,n02102040/n02102040_2702.JPEG,English springer,217,English springer,217,Welsh springer spaniel,218
+vit_b_16,25,n02102040/n02102040_3161.JPEG,English springer,217,English springer,217,Brittany spaniel,215
+vit_b_16,25,n02102040/n02102040_3212.JPEG,English springer,217,English springer,217,Brittany spaniel,215
+vit_b_16,25,n02102040/n02102040_3792.JPEG,English springer,217,English springer,217,Japanese spaniel,152
+vit_b_16,25,n02102040/n02102040_4350.JPEG,English springer,217,English springer,217,Cardigan,264
+vit_b_16,25,n02102040/n02102040_4411.JPEG,English springer,217,English springer,217,Welsh springer spaniel,218
+vit_b_16,25,n02102040/n02102040_5850.JPEG,English springer,217,English springer,217,cocker spaniel,219
+vit_b_16,25,n02102040/n02102040_6050.JPEG,English springer,217,English springer,217,Brittany spaniel,215
+vit_b_16,25,n02102040/n02102040_6072.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+vit_b_16,25,n02102040/n02102040_6081.JPEG,English springer,217,English springer,217,English setter,212
+vit_b_16,25,n02102040/n02102040_610.JPEG,English springer,217,English springer,217,Cardigan,264
+vit_b_16,25,n02102040/n02102040_621.JPEG,English springer,217,English springer,217,Border collie,232
+vit_b_16,25,n02102040/n02102040_681.JPEG,English springer,217,English springer,217,Bernese mountain dog,239
+vit_b_16,25,n02102040/n02102040_6890.JPEG,English springer,217,English springer,217,Brittany spaniel,215
+vit_b_16,25,n02102040/n02102040_7270.JPEG,English springer,217,English springer,217,Welsh springer spaniel,218
+vit_b_16,25,n02102040/n02102040_7792.JPEG,English springer,217,English springer,217,Cardigan,264
+vit_b_16,25,n02102040/n02102040_7860.JPEG,English springer,217,English springer,217,Welsh springer spaniel,218
+vit_b_16,25,n02102040/n02102040_791.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+vit_b_16,25,n02102040/n02102040_8372.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+vit_b_16,25,n02979186/ILSVRC2012_val_00028911.JPEG,cassette player,482,cassette player,482,tape player,848
+vit_b_16,25,n02979186/n02979186_11122.JPEG,cassette player,482,cassette player,482,tape player,848
+vit_b_16,25,n02979186/n02979186_11481.JPEG,cassette player,482,cassette player,482,tape player,848
+vit_b_16,25,n02979186/n02979186_13851.JPEG,cassette player,482,cassette player,482,park bench,703
+vit_b_16,25,n02979186/n02979186_140.JPEG,cassette player,482,cassette player,482,tape player,848
+vit_b_16,25,n02979186/n02979186_14471.JPEG,cassette player,482,cassette player,482,tape player,848
+vit_b_16,25,n02979186/n02979186_18131.JPEG,cassette player,482,cassette player,482,tape player,848
+vit_b_16,25,n02979186/n02979186_26822.JPEG,cassette player,482,cassette player,482,cassette,481
+vit_b_16,25,n02979186/n02979186_3200.JPEG,cassette player,482,cassette player,482,tape player,848
+vit_b_16,25,n02979186/n02979186_3472.JPEG,cassette player,482,cassette player,482,mousetrap,674
+vit_b_16,25,n02979186/n02979186_351.JPEG,cassette player,482,cassette player,482,minivan,656
+vit_b_16,25,n02979186/n02979186_960.JPEG,cassette player,482,cassette player,482,modem,662
+vit_b_16,25,n03000684/n03000684_14391.JPEG,chain saw,491,chain saw,491,thatch,853
+vit_b_16,25,n03000684/n03000684_17261.JPEG,chain saw,491,chain saw,491,lumbermill,634
+vit_b_16,25,n03000684/n03000684_21831.JPEG,chain saw,491,chain saw,491,lumbermill,634
+vit_b_16,25,n03000684/n03000684_2252.JPEG,chain saw,491,chain saw,491,lumbermill,634
+vit_b_16,25,n03000684/n03000684_32351.JPEG,chain saw,491,chain saw,491,lumbermill,634
+vit_b_16,25,n03000684/n03000684_502.JPEG,chain saw,491,chain saw,491,lumbermill,634
+vit_b_16,25,n03028079/ILSVRC2012_val_00023000.JPEG,church,497,church,497,monastery,663
+vit_b_16,25,n03028079/ILSVRC2012_val_00028310.JPEG,church,497,church,497,monastery,663
+vit_b_16,25,n03028079/n03028079_10020.JPEG,church,497,church,497,monastery,663
+vit_b_16,25,n03028079/n03028079_10040.JPEG,church,497,church,497,altar,406
+vit_b_16,25,n03028079/n03028079_10141.JPEG,church,497,church,497,beacon,437
+vit_b_16,25,n03028079/n03028079_102.JPEG,church,497,church,497,monastery,663
+vit_b_16,25,n03028079/n03028079_10451.JPEG,church,497,church,497,altar,406
+vit_b_16,25,n03028079/n03028079_1090.JPEG,church,497,church,497,bell cote,442
+vit_b_16,25,n03028079/n03028079_11250.JPEG,church,497,church,497,beacon,437
+vit_b_16,25,n03028079/n03028079_11401.JPEG,church,497,church,497,monastery,663
+vit_b_16,25,n03028079/n03028079_122592.JPEG,church,497,church,497,seashore,978
+vit_b_16,25,n03028079/n03028079_12681.JPEG,church,497,church,497,bell cote,442
+vit_b_16,25,n03028079/n03028079_13311.JPEG,church,497,church,497,obelisk,682
+vit_b_16,25,n03028079/n03028079_14192.JPEG,church,497,church,497,vault,884
+vit_b_16,25,n03028079/n03028079_14582.JPEG,church,497,church,497,dome,538
+vit_b_16,25,n03028079/n03028079_14860.JPEG,church,497,church,497,vault,884
+vit_b_16,25,n03028079/n03028079_14920.JPEG,church,497,church,497,monastery,663
+vit_b_16,25,n03028079/n03028079_15602.JPEG,church,497,church,497,vault,884
+vit_b_16,25,n03028079/n03028079_15961.JPEG,church,497,church,497,vault,884
+vit_b_16,25,n03028079/n03028079_16080.JPEG,church,497,church,497,monastery,663
+vit_b_16,25,n03028079/n03028079_16660.JPEG,church,497,church,497,monastery,663
+vit_b_16,25,n03028079/n03028079_17461.JPEG,church,497,church,497,altar,406
+vit_b_16,25,n03028079/n03028079_20312.JPEG,church,497,church,497,monastery,663
+vit_b_16,25,n03028079/n03028079_2060.JPEG,church,497,church,497,bell cote,442
+vit_b_16,25,n03028079/n03028079_21591.JPEG,church,497,church,497,monastery,663
+vit_b_16,25,n03028079/n03028079_2342.JPEG,church,497,church,497,barn,425
+vit_b_16,25,n03028079/n03028079_24602.JPEG,church,497,church,497,monastery,663
+vit_b_16,25,n03028079/n03028079_24642.JPEG,church,497,church,497,alp,970
+vit_b_16,25,n03028079/n03028079_2510.JPEG,church,497,church,497,vault,884
+vit_b_16,25,n03028079/n03028079_25612.JPEG,church,497,church,497,monastery,663
+vit_b_16,25,n03028079/n03028079_25680.JPEG,church,497,church,497,dome,538
+vit_b_16,25,n03028079/n03028079_26390.JPEG,church,497,church,497,monastery,663
+vit_b_16,25,n03028079/n03028079_26571.JPEG,church,497,church,497,vault,884
+vit_b_16,25,n03028079/n03028079_2660.JPEG,church,497,church,497,monastery,663
+vit_b_16,25,n03028079/n03028079_26842.JPEG,church,497,church,497,bell cote,442
+vit_b_16,25,n03028079/n03028079_26971.JPEG,church,497,church,497,monastery,663
+vit_b_16,25,n03028079/n03028079_27060.JPEG,church,497,church,497,bell cote,442
+vit_b_16,25,n03028079/n03028079_2842.JPEG,church,497,church,497,monastery,663
+vit_b_16,25,n03028079/n03028079_29410.JPEG,church,497,church,497,monastery,663
+vit_b_16,25,n03028079/n03028079_29461.JPEG,church,497,church,497,monastery,663
+vit_b_16,25,n03028079/n03028079_30181.JPEG,church,497,church,497,monastery,663
+vit_b_16,25,n03028079/n03028079_30751.JPEG,church,497,church,497,beacon,437
+vit_b_16,25,n03028079/n03028079_3081.JPEG,church,497,church,497,monastery,663
+vit_b_16,25,n03028079/n03028079_3192.JPEG,church,497,church,497,palace,698
+vit_b_16,25,n03028079/n03028079_32110.JPEG,church,497,church,497,mosque,668
+vit_b_16,25,n03028079/n03028079_3320.JPEG,church,497,church,497,monastery,663
+vit_b_16,25,n03028079/n03028079_33241.JPEG,church,497,church,497,monastery,663
+vit_b_16,25,n03028079/n03028079_33260.JPEG,church,497,church,497,altar,406
+vit_b_16,25,n03028079/n03028079_34051.JPEG,church,497,church,497,lakeside,975
+vit_b_16,25,n03028079/n03028079_3432.JPEG,church,497,church,497,dome,538
+vit_b_16,25,n03028079/n03028079_3441.JPEG,church,497,church,497,bell cote,442
+vit_b_16,25,n03028079/n03028079_35911.JPEG,church,497,church,497,monastery,663
+vit_b_16,25,n03028079/n03028079_3670.JPEG,church,497,church,497,monastery,663
+vit_b_16,25,n03028079/n03028079_40510.JPEG,church,497,church,497,bell cote,442
+vit_b_16,25,n03028079/n03028079_41101.JPEG,church,497,church,497,geyser,974
+vit_b_16,25,n03028079/n03028079_42222.JPEG,church,497,church,497,monastery,663
+vit_b_16,25,n03028079/n03028079_43102.JPEG,church,497,church,497,monastery,663
+vit_b_16,25,n03028079/n03028079_4320.JPEG,church,497,church,497,bell cote,442
+vit_b_16,25,n03028079/n03028079_4401.JPEG,church,497,church,497,bell cote,442
+vit_b_16,25,n03028079/n03028079_4612.JPEG,church,497,church,497,monastery,663
+vit_b_16,25,n03028079/n03028079_46722.JPEG,church,497,church,497,bell cote,442
+vit_b_16,25,n03028079/n03028079_4902.JPEG,church,497,church,497,bell cote,442
+vit_b_16,25,n03028079/n03028079_50060.JPEG,church,497,church,497,bell cote,442
+vit_b_16,25,n03028079/n03028079_5232.JPEG,church,497,church,497,palace,698
+vit_b_16,25,n03028079/n03028079_5432.JPEG,church,497,church,497,bell cote,442
+vit_b_16,25,n03028079/n03028079_5690.JPEG,church,497,church,497,bell cote,442
+vit_b_16,25,n03028079/n03028079_5852.JPEG,church,497,church,497,monastery,663
+vit_b_16,25,n03028079/n03028079_58650.JPEG,church,497,church,497,castle,483
+vit_b_16,25,n03028079/n03028079_6110.JPEG,church,497,church,497,bell cote,442
+vit_b_16,25,n03028079/n03028079_61951.JPEG,church,497,church,497,monastery,663
+vit_b_16,25,n03028079/n03028079_6421.JPEG,church,497,church,497,monastery,663
+vit_b_16,25,n03028079/n03028079_6601.JPEG,church,497,church,497,monastery,663
+vit_b_16,25,n03028079/n03028079_71550.JPEG,church,497,church,497,organ,687
+vit_b_16,25,n03028079/n03028079_7392.JPEG,church,497,church,497,monastery,663
+vit_b_16,25,n03028079/n03028079_75880.JPEG,church,497,church,497,monastery,663
+vit_b_16,25,n03028079/n03028079_800.JPEG,church,497,church,497,beacon,437
+vit_b_16,25,n03028079/n03028079_80352.JPEG,church,497,church,497,monastery,663
+vit_b_16,25,n03028079/n03028079_8151.JPEG,church,497,church,497,bell cote,442
+vit_b_16,25,n03028079/n03028079_8361.JPEG,church,497,church,497,beacon,437
+vit_b_16,25,n03028079/n03028079_8382.JPEG,church,497,church,497,monastery,663
+vit_b_16,25,n03028079/n03028079_8971.JPEG,church,497,church,497,vault,884
+vit_b_16,25,n03028079/n03028079_9320.JPEG,church,497,church,497,bell cote,442
+vit_b_16,25,n03028079/n03028079_9500.JPEG,church,497,church,497,monastery,663
+vit_b_16,25,n03028079/n03028079_9580.JPEG,church,497,church,497,monastery,663
+vit_b_16,25,n03394916/n03394916_28461.JPEG,French horn,566,French horn,566,trombone,875
+vit_b_16,25,n03394916/n03394916_33352.JPEG,French horn,566,French horn,566,sax,776
+vit_b_16,25,n03394916/n03394916_33380.JPEG,French horn,566,French horn,566,bassoon,432
+vit_b_16,25,n03394916/n03394916_34012.JPEG,French horn,566,French horn,566,sax,776
+vit_b_16,25,n03394916/n03394916_37571.JPEG,French horn,566,French horn,566,cornet,513
+vit_b_16,25,n03394916/n03394916_39102.JPEG,French horn,566,French horn,566,cornet,513
+vit_b_16,25,n03394916/n03394916_43532.JPEG,French horn,566,French horn,566,cornet,513
+vit_b_16,25,n03394916/n03394916_47110.JPEG,French horn,566,French horn,566,street sign,919
+vit_b_16,25,n03394916/n03394916_54320.JPEG,French horn,566,French horn,566,trombone,875
+vit_b_16,25,n03417042/n03417042_12322.JPEG,garbage truck,569,garbage truck,569,crane,517
+vit_b_16,25,n03417042/n03417042_1651.JPEG,garbage truck,569,garbage truck,569,moving van,675
+vit_b_16,25,n03417042/n03417042_18072.JPEG,garbage truck,569,garbage truck,569,trailer truck,867
+vit_b_16,25,n03417042/n03417042_28400.JPEG,garbage truck,569,garbage truck,569,worm fence,912
+vit_b_16,25,n03417042/n03417042_28552.JPEG,garbage truck,569,garbage truck,569,tow truck,864
+vit_b_16,25,n03417042/n03417042_3861.JPEG,garbage truck,569,garbage truck,569,lakeside,975
+vit_b_16,25,n03417042/n03417042_4462.JPEG,garbage truck,569,garbage truck,569,half track,586
+vit_b_16,25,n03417042/n03417042_742.JPEG,garbage truck,569,garbage truck,569,moving van,675
+vit_b_16,25,n03417042/n03417042_8081.JPEG,garbage truck,569,garbage truck,569,snowplow,803
+vit_b_16,25,n03425413/ILSVRC2012_val_00031412.JPEG,gas pump,571,gas pump,571,coho,391
+vit_b_16,25,n03425413/n03425413_13600.JPEG,gas pump,571,gas pump,571,slot,800
+vit_b_16,25,n03425413/n03425413_14891.JPEG,gas pump,571,gas pump,571,digital clock,530
+vit_b_16,25,n03425413/n03425413_15601.JPEG,gas pump,571,gas pump,571,slot,800
+vit_b_16,25,n03425413/n03425413_15862.JPEG,gas pump,571,gas pump,571,pay-phone,707
+vit_b_16,25,n03425413/n03425413_23312.JPEG,gas pump,571,gas pump,571,boathouse,449
+vit_b_16,25,n03425413/n03425413_8390.JPEG,gas pump,571,gas pump,571,car mirror,475
+vit_b_16,25,n03425413/n03425413_9051.JPEG,gas pump,571,gas pump,571,car mirror,475
+vit_b_16,25,n03445777/ILSVRC2012_val_00020502.JPEG,golf ball,574,golf ball,574,pedestal,708
+vit_b_16,25,n03445777/n03445777_10750.JPEG,golf ball,574,golf ball,574,seashore,978
+vit_b_16,25,n03888257/n03888257_12301.JPEG,parachute,701,parachute,701,ibex,350
+vit_b_16,25,n03888257/n03888257_13072.JPEG,parachute,701,parachute,701,Irish wolfhound,170
+vit_b_16,25,n03888257/n03888257_17031.JPEG,parachute,701,parachute,701,airship,405
+resnet18,10,n01440764/ILSVRC2012_val_00009111.JPEG,tench,0,tench,0,cannon,471
+resnet18,10,n01440764/n01440764_10542.JPEG,tench,0,tench,0,platypus,103
+resnet18,10,n01440764/n01440764_11612.JPEG,tench,0,tench,0,stretcher,830
+resnet18,10,n01440764/n01440764_1272.JPEG,tench,0,tench,0,potter's wheel,739
+resnet18,10,n01440764/n01440764_12971.JPEG,tench,0,tench,0,barracouta,389
+resnet18,10,n01440764/n01440764_13051.JPEG,tench,0,tench,0,platypus,103
+resnet18,10,n01440764/n01440764_14341.JPEG,tench,0,tench,0,assault rifle,413
+resnet18,10,n01440764/n01440764_14402.JPEG,tench,0,tench,0,sturgeon,394
+resnet18,10,n01440764/n01440764_17921.JPEG,tench,0,tench,0,rain barrel,756
+resnet18,10,n01440764/n01440764_190.JPEG,tench,0,tench,0,dugong,149
+resnet18,10,n01440764/n01440764_2102.JPEG,tench,0,tench,0,sturgeon,394
+resnet18,10,n01440764/n01440764_25361.JPEG,tench,0,tench,0,terrapin,36
+resnet18,10,n01440764/n01440764_30331.JPEG,tench,0,tench,0,barracouta,389
+resnet18,10,n01440764/n01440764_32420.JPEG,tench,0,tench,0,curly-coated retriever,206
+resnet18,10,n01440764/n01440764_341.JPEG,tench,0,tench,0,rock beauty,392
+resnet18,10,n01440764/n01440764_5081.JPEG,tench,0,tench,0,platypus,103
+resnet18,10,n01440764/n01440764_5112.JPEG,tench,0,tench,0,chiton,116
+resnet18,10,n01440764/n01440764_5802.JPEG,tench,0,tench,0,coho,391
+resnet18,10,n01440764/n01440764_6572.JPEG,tench,0,tench,0,Indian cobra,63
+resnet18,10,n01440764/n01440764_7160.JPEG,tench,0,tench,0,bow,456
+resnet18,10,n01440764/n01440764_8052.JPEG,tench,0,tench,0,rock crab,119
+resnet18,10,n01440764/n01440764_8910.JPEG,tench,0,tench,0,stone wall,825
+resnet18,10,n01440764/n01440764_9940.JPEG,tench,0,tench,0,barracouta,389
+resnet18,10,n02102040/ILSVRC2012_val_00004650.JPEG,English springer,217,English springer,217,Cardigan,264
+resnet18,10,n02102040/ILSVRC2012_val_00014280.JPEG,English springer,217,English springer,217,bluetick,164
+resnet18,10,n02102040/ILSVRC2012_val_00017370.JPEG,English springer,217,English springer,217,Saint Bernard,247
+resnet18,10,n02102040/ILSVRC2012_val_00022412.JPEG,English springer,217,English springer,217,Border collie,232
+resnet18,10,n02102040/ILSVRC2012_val_00023242.JPEG,English springer,217,English springer,217,bucket,463
+resnet18,10,n02102040/ILSVRC2012_val_00023440.JPEG,English springer,217,English springer,217,Welsh springer spaniel,218
+resnet18,10,n02102040/ILSVRC2012_val_00036282.JPEG,English springer,217,English springer,217,Saint Bernard,247
+resnet18,10,n02102040/ILSVRC2012_val_00037182.JPEG,English springer,217,English springer,217,Saint Bernard,247
+resnet18,10,n02102040/n02102040_1112.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+resnet18,10,n02102040/n02102040_1122.JPEG,English springer,217,English springer,217,bluetick,164
+resnet18,10,n02102040/n02102040_1151.JPEG,English springer,217,English springer,217,English setter,212
+resnet18,10,n02102040/n02102040_1160.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+resnet18,10,n02102040/n02102040_1222.JPEG,English springer,217,English springer,217,German shepherd,235
+resnet18,10,n02102040/n02102040_1241.JPEG,English springer,217,English springer,217,Bouvier des Flandres,233
+resnet18,10,n02102040/n02102040_1302.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+resnet18,10,n02102040/n02102040_132.JPEG,English springer,217,English springer,217,English foxhound,167
+resnet18,10,n02102040/n02102040_1430.JPEG,English springer,217,English springer,217,English setter,212
+resnet18,10,n02102040/n02102040_1442.JPEG,English springer,217,English springer,217,English foxhound,167
+resnet18,10,n02102040/n02102040_1450.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+resnet18,10,n02102040/n02102040_150.JPEG,English springer,217,English springer,217,Saint Bernard,247
+resnet18,10,n02102040/n02102040_1592.JPEG,English springer,217,English springer,217,Sussex spaniel,220
+resnet18,10,n02102040/n02102040_1612.JPEG,English springer,217,English springer,217,wire-haired fox terrier,188
+resnet18,10,n02102040/n02102040_1620.JPEG,English springer,217,English springer,217,greenhouse,580
+resnet18,10,n02102040/n02102040_1642.JPEG,English springer,217,English springer,217,bluetick,164
+resnet18,10,n02102040/n02102040_1720.JPEG,English springer,217,English springer,217,wire-haired fox terrier,188
+resnet18,10,n02102040/n02102040_1770.JPEG,English springer,217,English springer,217,Siamese cat,284
+resnet18,10,n02102040/n02102040_1771.JPEG,English springer,217,English springer,217,wire-haired fox terrier,188
+resnet18,10,n02102040/n02102040_1781.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+resnet18,10,n02102040/n02102040_182.JPEG,English springer,217,English springer,217,Saint Bernard,247
+resnet18,10,n02102040/n02102040_1830.JPEG,English springer,217,English springer,217,Afghan hound,160
+resnet18,10,n02102040/n02102040_1840.JPEG,English springer,217,English springer,217,Walker hound,166
+resnet18,10,n02102040/n02102040_1841.JPEG,English springer,217,English springer,217,sloth bear,297
+resnet18,10,n02102040/n02102040_1980.JPEG,English springer,217,English springer,217,Saint Bernard,247
+resnet18,10,n02102040/n02102040_2032.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+resnet18,10,n02102040/n02102040_2111.JPEG,English springer,217,English springer,217,space shuttle,812
+resnet18,10,n02102040/n02102040_2112.JPEG,English springer,217,English springer,217,cocker spaniel,219
+resnet18,10,n02102040/n02102040_2122.JPEG,English springer,217,English springer,217,clumber,216
+resnet18,10,n02102040/n02102040_2142.JPEG,English springer,217,English springer,217,Saint Bernard,247
+resnet18,10,n02102040/n02102040_2340.JPEG,English springer,217,English springer,217,Border collie,232
+resnet18,10,n02102040/n02102040_2391.JPEG,English springer,217,English springer,217,cocker spaniel,219
+resnet18,10,n02102040/n02102040_2470.JPEG,English springer,217,English springer,217,Saint Bernard,247
+resnet18,10,n02102040/n02102040_2480.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+resnet18,10,n02102040/n02102040_2702.JPEG,English springer,217,English springer,217,Sussex spaniel,220
+resnet18,10,n02102040/n02102040_2730.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+resnet18,10,n02102040/n02102040_2790.JPEG,English springer,217,English springer,217,Appenzeller,240
+resnet18,10,n02102040/n02102040_2830.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+resnet18,10,n02102040/n02102040_2842.JPEG,English springer,217,English springer,217,Welsh springer spaniel,218
+resnet18,10,n02102040/n02102040_2920.JPEG,English springer,217,English springer,217,English setter,212
+resnet18,10,n02102040/n02102040_2941.JPEG,English springer,217,English springer,217,Saint Bernard,247
+resnet18,10,n02102040/n02102040_2950.JPEG,English springer,217,English springer,217,Greater Swiss Mountain dog,238
+resnet18,10,n02102040/n02102040_2951.JPEG,English springer,217,English springer,217,Welsh springer spaniel,218
+resnet18,10,n02102040/n02102040_3030.JPEG,English springer,217,English springer,217,English setter,212
+resnet18,10,n02102040/n02102040_3062.JPEG,English springer,217,English springer,217,Greater Swiss Mountain dog,238
+resnet18,10,n02102040/n02102040_3161.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+resnet18,10,n02102040/n02102040_3180.JPEG,English springer,217,English springer,217,English setter,212
+resnet18,10,n02102040/n02102040_3201.JPEG,English springer,217,English springer,217,Sussex spaniel,220
+resnet18,10,n02102040/n02102040_3212.JPEG,English springer,217,English springer,217,English setter,212
+resnet18,10,n02102040/n02102040_3221.JPEG,English springer,217,English springer,217,Greater Swiss Mountain dog,238
+resnet18,10,n02102040/n02102040_3300.JPEG,English springer,217,English springer,217,Welsh springer spaniel,218
+resnet18,10,n02102040/n02102040_3311.JPEG,English springer,217,English springer,217,Sussex spaniel,220
+resnet18,10,n02102040/n02102040_332.JPEG,English springer,217,English springer,217,Saint Bernard,247
+resnet18,10,n02102040/n02102040_3371.JPEG,English springer,217,English springer,217,Saint Bernard,247
+resnet18,10,n02102040/n02102040_3381.JPEG,English springer,217,English springer,217,Walker hound,166
+resnet18,10,n02102040/n02102040_341.JPEG,English springer,217,English springer,217,giant schnauzer,197
+resnet18,10,n02102040/n02102040_3450.JPEG,English springer,217,English springer,217,Great Dane,246
+resnet18,10,n02102040/n02102040_3472.JPEG,English springer,217,English springer,217,Irish water spaniel,221
+resnet18,10,n02102040/n02102040_3530.JPEG,English springer,217,English springer,217,Border collie,232
+resnet18,10,n02102040/n02102040_3532.JPEG,English springer,217,English springer,217,wire-haired fox terrier,188
+resnet18,10,n02102040/n02102040_3562.JPEG,English springer,217,English springer,217,bluetick,164
+resnet18,10,n02102040/n02102040_3582.JPEG,English springer,217,English springer,217,English setter,212
+resnet18,10,n02102040/n02102040_3610.JPEG,English springer,217,English springer,217,Appenzeller,240
+resnet18,10,n02102040/n02102040_3621.JPEG,English springer,217,English springer,217,English setter,212
+resnet18,10,n02102040/n02102040_3640.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+resnet18,10,n02102040/n02102040_3660.JPEG,English springer,217,English springer,217,English setter,212
+resnet18,10,n02102040/n02102040_3691.JPEG,English springer,217,English springer,217,Appenzeller,240
+resnet18,10,n02102040/n02102040_3941.JPEG,English springer,217,English springer,217,Bernese mountain dog,239
+resnet18,10,n02102040/n02102040_4020.JPEG,English springer,217,English springer,217,English setter,212
+resnet18,10,n02102040/n02102040_421.JPEG,English springer,217,English springer,217,ox,345
+resnet18,10,n02102040/n02102040_430.JPEG,English springer,217,English springer,217,English foxhound,167
+resnet18,10,n02102040/n02102040_4320.JPEG,English springer,217,English springer,217,Saint Bernard,247
+resnet18,10,n02102040/n02102040_440.JPEG,English springer,217,English springer,217,Welsh springer spaniel,218
+resnet18,10,n02102040/n02102040_4410.JPEG,English springer,217,English springer,217,English setter,212
+resnet18,10,n02102040/n02102040_4411.JPEG,English springer,217,English springer,217,Welsh springer spaniel,218
+resnet18,10,n02102040/n02102040_4481.JPEG,English springer,217,English springer,217,Old English sheepdog,229
+resnet18,10,n02102040/n02102040_450.JPEG,English springer,217,English springer,217,English setter,212
+resnet18,10,n02102040/n02102040_4560.JPEG,English springer,217,English springer,217,Dandie Dinmont,194
+resnet18,10,n02102040/n02102040_4582.JPEG,English springer,217,English springer,217,Sussex spaniel,220
+resnet18,10,n02102040/n02102040_4650.JPEG,English springer,217,English springer,217,Welsh springer spaniel,218
+resnet18,10,n02102040/n02102040_4670.JPEG,English springer,217,English springer,217,English setter,212
+resnet18,10,n02102040/n02102040_4701.JPEG,English springer,217,English springer,217,clumber,216
+resnet18,10,n02102040/n02102040_4742.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+resnet18,10,n02102040/n02102040_4801.JPEG,English springer,217,English springer,217,Border collie,232
+resnet18,10,n02102040/n02102040_4821.JPEG,English springer,217,English springer,217,Border collie,232
+resnet18,10,n02102040/n02102040_4851.JPEG,English springer,217,English springer,217,English setter,212
+resnet18,10,n02102040/n02102040_4872.JPEG,English springer,217,English springer,217,Border collie,232
+resnet18,10,n02102040/n02102040_4960.JPEG,English springer,217,English springer,217,bluetick,164
+resnet18,10,n02102040/n02102040_5061.JPEG,English springer,217,English springer,217,Brittany spaniel,215
+resnet18,10,n02102040/n02102040_5101.JPEG,English springer,217,English springer,217,giant schnauzer,197
+resnet18,10,n02102040/n02102040_5120.JPEG,English springer,217,English springer,217,Saint Bernard,247
+resnet18,10,n02102040/n02102040_5170.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+resnet18,10,n02102040/n02102040_521.JPEG,English springer,217,English springer,217,giant schnauzer,197
+resnet18,10,n02102040/n02102040_5390.JPEG,English springer,217,English springer,217,bluetick,164
+resnet18,10,n02102040/n02102040_5442.JPEG,English springer,217,English springer,217,English setter,212
+resnet18,10,n02102040/n02102040_5681.JPEG,English springer,217,English springer,217,Cardigan,264
+resnet18,10,n02102040/n02102040_5790.JPEG,English springer,217,English springer,217,Border collie,232
+resnet18,10,n02102040/n02102040_5802.JPEG,English springer,217,English springer,217,curly-coated retriever,206
+resnet18,10,n02102040/n02102040_5851.JPEG,English springer,217,English springer,217,Bernese mountain dog,239
+resnet18,10,n02102040/n02102040_5871.JPEG,English springer,217,English springer,217,Cardigan,264
+resnet18,10,n02102040/n02102040_5881.JPEG,English springer,217,English springer,217,Border collie,232
+resnet18,10,n02102040/n02102040_5950.JPEG,English springer,217,English springer,217,Appenzeller,240
+resnet18,10,n02102040/n02102040_6081.JPEG,English springer,217,English springer,217,bluetick,164
+resnet18,10,n02102040/n02102040_6152.JPEG,English springer,217,English springer,217,English setter,212
+resnet18,10,n02102040/n02102040_6180.JPEG,English springer,217,English springer,217,English foxhound,167
+resnet18,10,n02102040/n02102040_620.JPEG,English springer,217,English springer,217,Great Dane,246
+resnet18,10,n02102040/n02102040_6201.JPEG,English springer,217,English springer,217,Sussex spaniel,220
+resnet18,10,n02102040/n02102040_6262.JPEG,English springer,217,English springer,217,Sussex spaniel,220
+resnet18,10,n02102040/n02102040_630.JPEG,English springer,217,English springer,217,llama,355
+resnet18,10,n02102040/n02102040_6391.JPEG,English springer,217,English springer,217,bluetick,164
+resnet18,10,n02102040/n02102040_6532.JPEG,English springer,217,English springer,217,badger,362
+resnet18,10,n02102040/n02102040_6622.JPEG,English springer,217,English springer,217,Welsh springer spaniel,218
+resnet18,10,n02102040/n02102040_6630.JPEG,English springer,217,English springer,217,Saint Bernard,247
+resnet18,10,n02102040/n02102040_6682.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+resnet18,10,n02102040/n02102040_671.JPEG,English springer,217,English springer,217,Brittany spaniel,215
+resnet18,10,n02102040/n02102040_6770.JPEG,English springer,217,English springer,217,cocker spaniel,219
+resnet18,10,n02102040/n02102040_6781.JPEG,English springer,217,English springer,217,skunk,361
+resnet18,10,n02102040/n02102040_681.JPEG,English springer,217,English springer,217,Saint Bernard,247
+resnet18,10,n02102040/n02102040_682.JPEG,English springer,217,English springer,217,flat-coated retriever,205
+resnet18,10,n02102040/n02102040_6880.JPEG,English springer,217,English springer,217,bluetick,164
+resnet18,10,n02102040/n02102040_6890.JPEG,English springer,217,English springer,217,English setter,212
+resnet18,10,n02102040/n02102040_6892.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+resnet18,10,n02102040/n02102040_6951.JPEG,English springer,217,English springer,217,Border collie,232
+resnet18,10,n02102040/n02102040_700.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+resnet18,10,n02102040/n02102040_702.JPEG,English springer,217,English springer,217,bluetick,164
+resnet18,10,n02102040/n02102040_7150.JPEG,English springer,217,English springer,217,Welsh springer spaniel,218
+resnet18,10,n02102040/n02102040_7270.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+resnet18,10,n02102040/n02102040_7480.JPEG,English springer,217,English springer,217,Welsh springer spaniel,218
+resnet18,10,n02102040/n02102040_7501.JPEG,English springer,217,English springer,217,Border collie,232
+resnet18,10,n02102040/n02102040_762.JPEG,English springer,217,English springer,217,Saint Bernard,247
+resnet18,10,n02102040/n02102040_7792.JPEG,English springer,217,English springer,217,Saint Bernard,247
+resnet18,10,n02102040/n02102040_7841.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+resnet18,10,n02102040/n02102040_791.JPEG,English springer,217,English springer,217,sandbar,977
+resnet18,10,n02102040/n02102040_8012.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+resnet18,10,n02102040/n02102040_8061.JPEG,English springer,217,English springer,217,English setter,212
+resnet18,10,n02102040/n02102040_810.JPEG,English springer,217,English springer,217,Sussex spaniel,220
+resnet18,10,n02102040/n02102040_8150.JPEG,English springer,217,English springer,217,Greater Swiss Mountain dog,238
+resnet18,10,n02102040/n02102040_821.JPEG,English springer,217,English springer,217,cocker spaniel,219
+resnet18,10,n02102040/n02102040_8300.JPEG,English springer,217,English springer,217,wire-haired fox terrier,188
+resnet18,10,n02102040/n02102040_8392.JPEG,English springer,217,English springer,217,wire-haired fox terrier,188
+resnet18,10,n02102040/n02102040_850.JPEG,English springer,217,English springer,217,Great Dane,246
+resnet18,10,n02102040/n02102040_901.JPEG,English springer,217,English springer,217,Saint Bernard,247
+resnet18,10,n02102040/n02102040_922.JPEG,English springer,217,English springer,217,Appenzeller,240
+resnet18,10,n02102040/n02102040_940.JPEG,English springer,217,English springer,217,Border collie,232
+resnet18,10,n02102040/n02102040_960.JPEG,English springer,217,English springer,217,bluetick,164
+resnet18,10,n02102040/n02102040_970.JPEG,English springer,217,English springer,217,Saint Bernard,247
+resnet18,10,n02979186/ILSVRC2012_val_00043121.JPEG,cassette player,482,cassette player,482,tape player,848
+resnet18,10,n02979186/ILSVRC2012_val_00043731.JPEG,cassette player,482,cassette player,482,revolver,763
+resnet18,10,n02979186/n02979186_10532.JPEG,cassette player,482,cassette player,482,cassette,481
+resnet18,10,n02979186/n02979186_10751.JPEG,cassette player,482,cassette player,482,radio,754
+resnet18,10,n02979186/n02979186_10912.JPEG,cassette player,482,cassette player,482,cassette,481
+resnet18,10,n02979186/n02979186_12101.JPEG,cassette player,482,cassette player,482,CD player,485
+resnet18,10,n02979186/n02979186_13061.JPEG,cassette player,482,cassette player,482,loudspeaker,632
+resnet18,10,n02979186/n02979186_13950.JPEG,cassette player,482,cassette player,482,cassette,481
+resnet18,10,n02979186/n02979186_14471.JPEG,cassette player,482,cassette player,482,theater curtain,854
+resnet18,10,n02979186/n02979186_14712.JPEG,cassette player,482,cassette player,482,home theater,598
+resnet18,10,n02979186/n02979186_16101.JPEG,cassette player,482,cassette player,482,limousine,627
+resnet18,10,n02979186/n02979186_16192.JPEG,cassette player,482,cassette player,482,tape player,848
+resnet18,10,n02979186/n02979186_17312.JPEG,cassette player,482,cassette player,482,stopwatch,826
+resnet18,10,n02979186/n02979186_18581.JPEG,cassette player,482,cassette player,482,tape player,848
+resnet18,10,n02979186/n02979186_19440.JPEG,cassette player,482,cassette player,482,sports car,817
+resnet18,10,n02979186/n02979186_21401.JPEG,cassette player,482,cassette player,482,tape player,848
+resnet18,10,n02979186/n02979186_21472.JPEG,cassette player,482,cassette player,482,mailbag,636
+resnet18,10,n02979186/n02979186_22871.JPEG,cassette player,482,cassette player,482,tape player,848
+resnet18,10,n02979186/n02979186_560.JPEG,cassette player,482,cassette player,482,radio,754
+resnet18,10,n02979186/n02979186_8751.JPEG,cassette player,482,cassette player,482,tape player,848
+resnet18,10,n03000684/ILSVRC2012_val_00011170.JPEG,chain saw,491,chain saw,491,killer whale,148
+resnet18,10,n03000684/ILSVRC2012_val_00036092.JPEG,chain saw,491,chain saw,491,maze,646
+resnet18,10,n03000684/ILSVRC2012_val_00045940.JPEG,chain saw,491,chain saw,491,power drill,740
+resnet18,10,n03000684/n03000684_1011.JPEG,chain saw,491,chain saw,491,mountain bike,671
+resnet18,10,n03000684/n03000684_10131.JPEG,chain saw,491,chain saw,491,punching bag,747
+resnet18,10,n03000684/n03000684_10132.JPEG,chain saw,491,chain saw,491,assault rifle,413
+resnet18,10,n03000684/n03000684_10690.JPEG,chain saw,491,chain saw,491,assault rifle,413
+resnet18,10,n03000684/n03000684_10692.JPEG,chain saw,491,chain saw,491,snowmobile,802
+resnet18,10,n03000684/n03000684_10860.JPEG,chain saw,491,chain saw,491,toyshop,865
+resnet18,10,n03000684/n03000684_1100.JPEG,chain saw,491,chain saw,491,jersey,610
+resnet18,10,n03000684/n03000684_1210.JPEG,chain saw,491,chain saw,491,Mexican hairless,268
+resnet18,10,n03000684/n03000684_12430.JPEG,chain saw,491,chain saw,491,stretcher,830
+resnet18,10,n03000684/n03000684_12642.JPEG,chain saw,491,chain saw,491,stretcher,830
+resnet18,10,n03000684/n03000684_13182.JPEG,chain saw,491,chain saw,491,oxcart,690
+resnet18,10,n03000684/n03000684_14600.JPEG,chain saw,491,chain saw,491,plow,730
+resnet18,10,n03000684/n03000684_15181.JPEG,chain saw,491,chain saw,491,lumbermill,634
+resnet18,10,n03000684/n03000684_15582.JPEG,chain saw,491,chain saw,491,bow,456
+resnet18,10,n03000684/n03000684_15950.JPEG,chain saw,491,chain saw,491,punching bag,747
+resnet18,10,n03000684/n03000684_16242.JPEG,chain saw,491,chain saw,491,lumbermill,634
+resnet18,10,n03000684/n03000684_16312.JPEG,chain saw,491,chain saw,491,Bouvier des Flandres,233
+resnet18,10,n03000684/n03000684_16372.JPEG,chain saw,491,chain saw,491,bow,456
+resnet18,10,n03000684/n03000684_16861.JPEG,chain saw,491,chain saw,491,lumbermill,634
+resnet18,10,n03000684/n03000684_16872.JPEG,chain saw,491,chain saw,491,disk brake,535
+resnet18,10,n03000684/n03000684_1692.JPEG,chain saw,491,chain saw,491,solar dish,807
+resnet18,10,n03000684/n03000684_16972.JPEG,chain saw,491,chain saw,491,projectile,744
+resnet18,10,n03000684/n03000684_16991.JPEG,chain saw,491,chain saw,491,bicycle-built-for-two,444
+resnet18,10,n03000684/n03000684_17382.JPEG,chain saw,491,chain saw,491,parallel bars,702
+resnet18,10,n03000684/n03000684_1752.JPEG,chain saw,491,chain saw,491,ski,795
+resnet18,10,n03000684/n03000684_1821.JPEG,chain saw,491,chain saw,491,snowplow,803
+resnet18,10,n03000684/n03000684_19071.JPEG,chain saw,491,chain saw,491,lumbermill,634
+resnet18,10,n03000684/n03000684_19591.JPEG,chain saw,491,chain saw,491,barn spider,73
+resnet18,10,n03000684/n03000684_19981.JPEG,chain saw,491,chain saw,491,stretcher,830
+resnet18,10,n03000684/n03000684_2102.JPEG,chain saw,491,chain saw,491,iron,606
+resnet18,10,n03000684/n03000684_2202.JPEG,chain saw,491,chain saw,491,lawn mower,621
+resnet18,10,n03000684/n03000684_2350.JPEG,chain saw,491,chain saw,491,rain barrel,756
+resnet18,10,n03000684/n03000684_24020.JPEG,chain saw,491,chain saw,491,cannon,471
+resnet18,10,n03000684/n03000684_2472.JPEG,chain saw,491,chain saw,491,lumbermill,634
+resnet18,10,n03000684/n03000684_25951.JPEG,chain saw,491,chain saw,491,indri,384
+resnet18,10,n03000684/n03000684_272.JPEG,chain saw,491,chain saw,491,assault rifle,413
+resnet18,10,n03000684/n03000684_27361.JPEG,chain saw,491,chain saw,491,water bottle,898
+resnet18,10,n03000684/n03000684_27981.JPEG,chain saw,491,chain saw,491,coho,391
+resnet18,10,n03000684/n03000684_292.JPEG,chain saw,491,chain saw,491,gar,395
+resnet18,10,n03000684/n03000684_2972.JPEG,chain saw,491,chain saw,491,stretcher,830
+resnet18,10,n03000684/n03000684_30141.JPEG,chain saw,491,chain saw,491,revolver,763
+resnet18,10,n03000684/n03000684_31112.JPEG,chain saw,491,chain saw,491,apiary,410
+resnet18,10,n03000684/n03000684_3161.JPEG,chain saw,491,chain saw,491,stretcher,830
+resnet18,10,n03000684/n03000684_33281.JPEG,chain saw,491,chain saw,491,lumbermill,634
+resnet18,10,n03000684/n03000684_33461.JPEG,chain saw,491,chain saw,491,toyshop,865
+resnet18,10,n03000684/n03000684_34440.JPEG,chain saw,491,chain saw,491,stretcher,830
+resnet18,10,n03000684/n03000684_35201.JPEG,chain saw,491,chain saw,491,assault rifle,413
+resnet18,10,n03000684/n03000684_36420.JPEG,chain saw,491,chain saw,491,tank,847
+resnet18,10,n03000684/n03000684_3952.JPEG,chain saw,491,chain saw,491,lumbermill,634
+resnet18,10,n03000684/n03000684_400.JPEG,chain saw,491,chain saw,491,tusker,101
+resnet18,10,n03000684/n03000684_4012.JPEG,chain saw,491,chain saw,491,stretcher,830
+resnet18,10,n03000684/n03000684_501.JPEG,chain saw,491,chain saw,491,mountain bike,671
+resnet18,10,n03000684/n03000684_580.JPEG,chain saw,491,chain saw,491,snowplow,803
+resnet18,10,n03000684/n03000684_590.JPEG,chain saw,491,chain saw,491,sturgeon,394
+resnet18,10,n03000684/n03000684_6142.JPEG,chain saw,491,chain saw,491,bow,456
+resnet18,10,n03000684/n03000684_6471.JPEG,chain saw,491,chain saw,491,green mamba,64
+resnet18,10,n03000684/n03000684_6822.JPEG,chain saw,491,chain saw,491,harvester,595
+resnet18,10,n03000684/n03000684_6881.JPEG,chain saw,491,chain saw,491,crutch,523
+resnet18,10,n03000684/n03000684_7050.JPEG,chain saw,491,chain saw,491,stretcher,830
+resnet18,10,n03000684/n03000684_8502.JPEG,chain saw,491,chain saw,491,crane,517
+resnet18,10,n03000684/n03000684_851.JPEG,chain saw,491,chain saw,491,stretcher,830
+resnet18,10,n03000684/n03000684_8580.JPEG,chain saw,491,chain saw,491,bulletproof vest,465
+resnet18,10,n03000684/n03000684_8651.JPEG,chain saw,491,chain saw,491,mountain bike,671
+resnet18,10,n03000684/n03000684_882.JPEG,chain saw,491,chain saw,491,Kerry blue terrier,183
+resnet18,10,n03000684/n03000684_8831.JPEG,chain saw,491,chain saw,491,bow,456
+resnet18,10,n03000684/n03000684_9260.JPEG,chain saw,491,chain saw,491,tench,0
+resnet18,10,n03000684/n03000684_9440.JPEG,chain saw,491,chain saw,491,horse cart,603
+resnet18,10,n03000684/n03000684_9741.JPEG,chain saw,491,chain saw,491,stretcher,830
+resnet18,10,n03000684/n03000684_9752.JPEG,chain saw,491,chain saw,491,croquet ball,522
+resnet18,10,n03000684/n03000684_9942.JPEG,chain saw,491,chain saw,491,bulletproof vest,465
+resnet18,10,n03028079/ILSVRC2012_val_00003682.JPEG,church,497,church,497,chime,494
+resnet18,10,n03028079/ILSVRC2012_val_00010770.JPEG,church,497,church,497,library,624
+resnet18,10,n03028079/ILSVRC2012_val_00034021.JPEG,church,497,church,497,castle,483
+resnet18,10,n03028079/n03028079_10020.JPEG,church,497,church,497,monastery,663
+resnet18,10,n03028079/n03028079_10032.JPEG,church,497,church,497,palace,698
+resnet18,10,n03028079/n03028079_10060.JPEG,church,497,church,497,monastery,663
+resnet18,10,n03028079/n03028079_10111.JPEG,church,497,church,497,monastery,663
+resnet18,10,n03028079/n03028079_102.JPEG,church,497,church,497,monastery,663
+resnet18,10,n03028079/n03028079_10452.JPEG,church,497,church,497,bell cote,442
+resnet18,10,n03028079/n03028079_11591.JPEG,church,497,church,497,bell cote,442
+resnet18,10,n03028079/n03028079_12090.JPEG,church,497,church,497,traffic light,920
+resnet18,10,n03028079/n03028079_12681.JPEG,church,497,church,497,castle,483
+resnet18,10,n03028079/n03028079_12732.JPEG,church,497,church,497,palace,698
+resnet18,10,n03028079/n03028079_13580.JPEG,church,497,church,497,solar dish,807
+resnet18,10,n03028079/n03028079_1381.JPEG,church,497,church,497,castle,483
+resnet18,10,n03028079/n03028079_13981.JPEG,church,497,church,497,castle,483
+resnet18,10,n03028079/n03028079_14181.JPEG,church,497,church,497,altar,406
+resnet18,10,n03028079/n03028079_14600.JPEG,church,497,church,497,palace,698
+resnet18,10,n03028079/n03028079_14770.JPEG,church,497,church,497,bell cote,442
+resnet18,10,n03028079/n03028079_15002.JPEG,church,497,church,497,vault,884
+resnet18,10,n03028079/n03028079_15240.JPEG,church,497,church,497,monastery,663
+resnet18,10,n03028079/n03028079_15392.JPEG,church,497,church,497,bell cote,442
+resnet18,10,n03028079/n03028079_16361.JPEG,church,497,church,497,monastery,663
+resnet18,10,n03028079/n03028079_16660.JPEG,church,497,church,497,monastery,663
+resnet18,10,n03028079/n03028079_16811.JPEG,church,497,church,497,altar,406
+resnet18,10,n03028079/n03028079_16820.JPEG,church,497,church,497,projectile,744
+resnet18,10,n03028079/n03028079_17171.JPEG,church,497,church,497,monastery,663
+resnet18,10,n03028079/n03028079_17561.JPEG,church,497,church,497,bell cote,442
+resnet18,10,n03028079/n03028079_17690.JPEG,church,497,church,497,palace,698
+resnet18,10,n03028079/n03028079_1870.JPEG,church,497,church,497,megalith,649
+resnet18,10,n03028079/n03028079_20012.JPEG,church,497,church,497,castle,483
+resnet18,10,n03028079/n03028079_2060.JPEG,church,497,church,497,monastery,663
+resnet18,10,n03028079/n03028079_22390.JPEG,church,497,church,497,alp,970
+resnet18,10,n03028079/n03028079_2470.JPEG,church,497,church,497,bell cote,442
+resnet18,10,n03028079/n03028079_2510.JPEG,church,497,church,497,monastery,663
+resnet18,10,n03028079/n03028079_25712.JPEG,church,497,church,497,monastery,663
+resnet18,10,n03028079/n03028079_26221.JPEG,church,497,church,497,monastery,663
+resnet18,10,n03028079/n03028079_26291.JPEG,church,497,church,497,altar,406
+resnet18,10,n03028079/n03028079_26390.JPEG,church,497,church,497,monastery,663
+resnet18,10,n03028079/n03028079_26601.JPEG,church,497,church,497,bell cote,442
+resnet18,10,n03028079/n03028079_26810.JPEG,church,497,church,497,bell cote,442
+resnet18,10,n03028079/n03028079_26842.JPEG,church,497,church,497,alp,970
+resnet18,10,n03028079/n03028079_26852.JPEG,church,497,church,497,bell cote,442
+resnet18,10,n03028079/n03028079_27060.JPEG,church,497,church,497,megalith,649
+resnet18,10,n03028079/n03028079_27511.JPEG,church,497,church,497,monastery,663
+resnet18,10,n03028079/n03028079_27520.JPEG,church,497,church,497,monastery,663
+resnet18,10,n03028079/n03028079_27902.JPEG,church,497,church,497,monastery,663
+resnet18,10,n03028079/n03028079_28242.JPEG,church,497,church,497,bell cote,442
+resnet18,10,n03028079/n03028079_28352.JPEG,church,497,church,497,boathouse,449
+resnet18,10,n03028079/n03028079_28521.JPEG,church,497,church,497,monastery,663
+resnet18,10,n03028079/n03028079_29012.JPEG,church,497,church,497,monastery,663
+resnet18,10,n03028079/n03028079_29062.JPEG,church,497,church,497,barn,425
+resnet18,10,n03028079/n03028079_29412.JPEG,church,497,church,497,bell cote,442
+resnet18,10,n03028079/n03028079_2942.JPEG,church,497,church,497,monastery,663
+resnet18,10,n03028079/n03028079_29461.JPEG,church,497,church,497,monastery,663
+resnet18,10,n03028079/n03028079_29670.JPEG,church,497,church,497,bell cote,442
+resnet18,10,n03028079/n03028079_3042.JPEG,church,497,church,497,monastery,663
+resnet18,10,n03028079/n03028079_30642.JPEG,church,497,church,497,monastery,663
+resnet18,10,n03028079/n03028079_30751.JPEG,church,497,church,497,monastery,663
+resnet18,10,n03028079/n03028079_3081.JPEG,church,497,church,497,monastery,663
+resnet18,10,n03028079/n03028079_31571.JPEG,church,497,church,497,bell cote,442
+resnet18,10,n03028079/n03028079_32110.JPEG,church,497,church,497,monastery,663
+resnet18,10,n03028079/n03028079_32580.JPEG,church,497,church,497,castle,483
+resnet18,10,n03028079/n03028079_3260.JPEG,church,497,church,497,monastery,663
+resnet18,10,n03028079/n03028079_33241.JPEG,church,497,church,497,bell cote,442
+resnet18,10,n03028079/n03028079_35911.JPEG,church,497,church,497,monastery,663
+resnet18,10,n03028079/n03028079_362.JPEG,church,497,church,497,worm fence,912
+resnet18,10,n03028079/n03028079_4022.JPEG,church,497,church,497,bell cote,442
+resnet18,10,n03028079/n03028079_40711.JPEG,church,497,church,497,monastery,663
+resnet18,10,n03028079/n03028079_43102.JPEG,church,497,church,497,monastery,663
+resnet18,10,n03028079/n03028079_4320.JPEG,church,497,church,497,worm fence,912
+resnet18,10,n03028079/n03028079_4572.JPEG,church,497,church,497,monastery,663
+resnet18,10,n03028079/n03028079_4661.JPEG,church,497,church,497,altar,406
+resnet18,10,n03028079/n03028079_4821.JPEG,church,497,church,497,palace,698
+resnet18,10,n03028079/n03028079_49281.JPEG,church,497,church,497,altar,406
+resnet18,10,n03028079/n03028079_50060.JPEG,church,497,church,497,monastery,663
+resnet18,10,n03028079/n03028079_5232.JPEG,church,497,church,497,monastery,663
+resnet18,10,n03028079/n03028079_5260.JPEG,church,497,church,497,altar,406
+resnet18,10,n03028079/n03028079_5401.JPEG,church,497,church,497,beacon,437
+resnet18,10,n03028079/n03028079_5690.JPEG,church,497,church,497,bell cote,442
+resnet18,10,n03028079/n03028079_5852.JPEG,church,497,church,497,monastery,663
+resnet18,10,n03028079/n03028079_6110.JPEG,church,497,church,497,bell cote,442
+resnet18,10,n03028079/n03028079_6421.JPEG,church,497,church,497,monastery,663
+resnet18,10,n03028079/n03028079_6720.JPEG,church,497,church,497,castle,483
+resnet18,10,n03028079/n03028079_6831.JPEG,church,497,church,497,monastery,663
+resnet18,10,n03028079/n03028079_72470.JPEG,church,497,church,497,monastery,663
+resnet18,10,n03028079/n03028079_7271.JPEG,church,497,church,497,monastery,663
+resnet18,10,n03028079/n03028079_7392.JPEG,church,497,church,497,monastery,663
+resnet18,10,n03028079/n03028079_76700.JPEG,church,497,church,497,palace,698
+resnet18,10,n03028079/n03028079_7882.JPEG,church,497,church,497,monastery,663
+resnet18,10,n03028079/n03028079_800.JPEG,church,497,church,497,beacon,437
+resnet18,10,n03028079/n03028079_8161.JPEG,church,497,church,497,monastery,663
+resnet18,10,n03028079/n03028079_8531.JPEG,church,497,church,497,throne,857
+resnet18,10,n03028079/n03028079_8661.JPEG,church,497,church,497,bell cote,442
+resnet18,10,n03028079/n03028079_8720.JPEG,church,497,church,497,bell cote,442
+resnet18,10,n03028079/n03028079_9580.JPEG,church,497,church,497,monastery,663
+resnet18,10,n03028079/n03028079_9662.JPEG,church,497,church,497,bell cote,442
+resnet18,10,n03028079/n03028079_9810.JPEG,church,497,church,497,monastery,663
+resnet18,10,n03028079/n03028079_9920.JPEG,church,497,church,497,pedestal,708
+resnet18,10,n03394916/ILSVRC2012_val_00001492.JPEG,French horn,566,French horn,566,trombone,875
+resnet18,10,n03394916/ILSVRC2012_val_00025430.JPEG,French horn,566,French horn,566,oboe,683
+resnet18,10,n03394916/n03394916_16601.JPEG,French horn,566,French horn,566,gong,577
+resnet18,10,n03394916/n03394916_25580.JPEG,French horn,566,French horn,566,vestment,887
+resnet18,10,n03394916/n03394916_26260.JPEG,French horn,566,French horn,566,cornet,513
+resnet18,10,n03394916/n03394916_26270.JPEG,French horn,566,French horn,566,oboe,683
+resnet18,10,n03394916/n03394916_29091.JPEG,French horn,566,French horn,566,toilet seat,861
+resnet18,10,n03394916/n03394916_29142.JPEG,French horn,566,French horn,566,tobacco shop,860
+resnet18,10,n03394916/n03394916_29580.JPEG,French horn,566,French horn,566,cornet,513
+resnet18,10,n03394916/n03394916_29622.JPEG,French horn,566,French horn,566,military uniform,652
+resnet18,10,n03394916/n03394916_29722.JPEG,French horn,566,French horn,566,bassoon,432
+resnet18,10,n03394916/n03394916_29940.JPEG,French horn,566,French horn,566,palace,698
+resnet18,10,n03394916/n03394916_30072.JPEG,French horn,566,French horn,566,trombone,875
+resnet18,10,n03394916/n03394916_30222.JPEG,French horn,566,French horn,566,oboe,683
+resnet18,10,n03394916/n03394916_30451.JPEG,French horn,566,French horn,566,theater curtain,854
+resnet18,10,n03394916/n03394916_30500.JPEG,French horn,566,French horn,566,oboe,683
+resnet18,10,n03394916/n03394916_30700.JPEG,French horn,566,French horn,566,carousel,476
+resnet18,10,n03394916/n03394916_31860.JPEG,French horn,566,French horn,566,sax,776
+resnet18,10,n03394916/n03394916_32550.JPEG,French horn,566,French horn,566,guillotine,583
+resnet18,10,n03394916/n03394916_32800.JPEG,French horn,566,French horn,566,cornet,513
+resnet18,10,n03394916/n03394916_32980.JPEG,French horn,566,French horn,566,toyshop,865
+resnet18,10,n03394916/n03394916_32982.JPEG,French horn,566,French horn,566,academic gown,400
+resnet18,10,n03394916/n03394916_33221.JPEG,French horn,566,French horn,566,electric fan,545
+resnet18,10,n03394916/n03394916_33260.JPEG,French horn,566,French horn,566,spotlight,818
+resnet18,10,n03394916/n03394916_33341.JPEG,French horn,566,French horn,566,spotlight,818
+resnet18,10,n03394916/n03394916_33940.JPEG,French horn,566,French horn,566,jinrikisha,612
+resnet18,10,n03394916/n03394916_33942.JPEG,French horn,566,French horn,566,trombone,875
+resnet18,10,n03394916/n03394916_34492.JPEG,French horn,566,French horn,566,abaya,399
+resnet18,10,n03394916/n03394916_35731.JPEG,French horn,566,French horn,566,jinrikisha,612
+resnet18,10,n03394916/n03394916_35801.JPEG,French horn,566,French horn,566,bearskin,439
+resnet18,10,n03394916/n03394916_36361.JPEG,French horn,566,French horn,566,gong,577
+resnet18,10,n03394916/n03394916_36432.JPEG,French horn,566,French horn,566,cornet,513
+resnet18,10,n03394916/n03394916_36532.JPEG,French horn,566,French horn,566,typewriter keyboard,878
+resnet18,10,n03394916/n03394916_36782.JPEG,French horn,566,French horn,566,half track,586
+resnet18,10,n03394916/n03394916_36941.JPEG,French horn,566,French horn,566,trombone,875
+resnet18,10,n03394916/n03394916_36982.JPEG,French horn,566,French horn,566,park bench,703
+resnet18,10,n03394916/n03394916_37321.JPEG,French horn,566,French horn,566,wig,903
+resnet18,10,n03394916/n03394916_37762.JPEG,French horn,566,French horn,566,barbershop,424
+resnet18,10,n03394916/n03394916_37960.JPEG,French horn,566,French horn,566,three-toed sloth,364
+resnet18,10,n03394916/n03394916_37991.JPEG,French horn,566,French horn,566,chain saw,491
+resnet18,10,n03394916/n03394916_38050.JPEG,French horn,566,French horn,566,oboe,683
+resnet18,10,n03394916/n03394916_38162.JPEG,French horn,566,French horn,566,screw,783
+resnet18,10,n03394916/n03394916_38212.JPEG,French horn,566,French horn,566,prison,743
+resnet18,10,n03394916/n03394916_38320.JPEG,French horn,566,French horn,566,thresher,856
+resnet18,10,n03394916/n03394916_38530.JPEG,French horn,566,French horn,566,solar dish,807
+resnet18,10,n03394916/n03394916_38702.JPEG,French horn,566,French horn,566,cornet,513
+resnet18,10,n03394916/n03394916_38782.JPEG,French horn,566,French horn,566,sax,776
+resnet18,10,n03394916/n03394916_39500.JPEG,French horn,566,French horn,566,cornet,513
+resnet18,10,n03394916/n03394916_40391.JPEG,French horn,566,French horn,566,bow,456
+resnet18,10,n03394916/n03394916_41871.JPEG,French horn,566,French horn,566,leatherback turtle,34
+resnet18,10,n03394916/n03394916_42422.JPEG,French horn,566,French horn,566,thresher,856
+resnet18,10,n03394916/n03394916_4301.JPEG,French horn,566,French horn,566,steel drum,822
+resnet18,10,n03394916/n03394916_43991.JPEG,French horn,566,French horn,566,steel drum,822
+resnet18,10,n03394916/n03394916_45042.JPEG,French horn,566,French horn,566,sax,776
+resnet18,10,n03394916/n03394916_47022.JPEG,French horn,566,French horn,566,stretcher,830
+resnet18,10,n03394916/n03394916_5011.JPEG,French horn,566,French horn,566,abaya,399
+resnet18,10,n03394916/n03394916_51822.JPEG,French horn,566,French horn,566,steel drum,822
+resnet18,10,n03394916/n03394916_54320.JPEG,French horn,566,French horn,566,trombone,875
+resnet18,10,n03394916/n03394916_54391.JPEG,French horn,566,French horn,566,gong,577
+resnet18,10,n03394916/n03394916_54831.JPEG,French horn,566,French horn,566,trombone,875
+resnet18,10,n03394916/n03394916_59430.JPEG,French horn,566,French horn,566,cornet,513
+resnet18,10,n03394916/n03394916_60810.JPEG,French horn,566,French horn,566,unicycle,880
+resnet18,10,n03394916/n03394916_7292.JPEG,French horn,566,French horn,566,stage,819
+resnet18,10,n03417042/n03417042_1000.JPEG,garbage truck,569,garbage truck,569,trailer truck,867
+resnet18,10,n03417042/n03417042_10612.JPEG,garbage truck,569,garbage truck,569,moving van,675
+resnet18,10,n03417042/n03417042_10751.JPEG,garbage truck,569,garbage truck,569,screen,782
+resnet18,10,n03417042/n03417042_11000.JPEG,garbage truck,569,garbage truck,569,moving van,675
+resnet18,10,n03417042/n03417042_11441.JPEG,garbage truck,569,garbage truck,569,dogsled,537
+resnet18,10,n03417042/n03417042_1182.JPEG,garbage truck,569,garbage truck,569,trailer truck,867
+resnet18,10,n03417042/n03417042_12050.JPEG,garbage truck,569,garbage truck,569,mobile home,660
+resnet18,10,n03417042/n03417042_12170.JPEG,garbage truck,569,garbage truck,569,moving van,675
+resnet18,10,n03417042/n03417042_12232.JPEG,garbage truck,569,garbage truck,569,mobile home,660
+resnet18,10,n03417042/n03417042_12300.JPEG,garbage truck,569,garbage truck,569,half track,586
+resnet18,10,n03417042/n03417042_12322.JPEG,garbage truck,569,garbage truck,569,thresher,856
+resnet18,10,n03417042/n03417042_1330.JPEG,garbage truck,569,garbage truck,569,maypole,645
+resnet18,10,n03417042/n03417042_16370.JPEG,garbage truck,569,garbage truck,569,trailer truck,867
+resnet18,10,n03417042/n03417042_1651.JPEG,garbage truck,569,garbage truck,569,moving van,675
+resnet18,10,n03417042/n03417042_1770.JPEG,garbage truck,569,garbage truck,569,thresher,856
+resnet18,10,n03417042/n03417042_19531.JPEG,garbage truck,569,garbage truck,569,steam locomotive,820
+resnet18,10,n03417042/n03417042_20340.JPEG,garbage truck,569,garbage truck,569,moving van,675
+resnet18,10,n03417042/n03417042_22482.JPEG,garbage truck,569,garbage truck,569,moving van,675
+resnet18,10,n03417042/n03417042_23541.JPEG,garbage truck,569,garbage truck,569,trailer truck,867
+resnet18,10,n03417042/n03417042_23771.JPEG,garbage truck,569,garbage truck,569,thresher,856
+resnet18,10,n03417042/n03417042_27862.JPEG,garbage truck,569,garbage truck,569,mobile home,660
+resnet18,10,n03417042/n03417042_29361.JPEG,garbage truck,569,garbage truck,569,mobile home,660
+resnet18,10,n03417042/n03417042_30.JPEG,garbage truck,569,garbage truck,569,moving van,675
+resnet18,10,n03417042/n03417042_3140.JPEG,garbage truck,569,garbage truck,569,trailer truck,867
+resnet18,10,n03417042/n03417042_3600.JPEG,garbage truck,569,garbage truck,569,lifeboat,625
+resnet18,10,n03417042/n03417042_3731.JPEG,garbage truck,569,garbage truck,569,moving van,675
+resnet18,10,n03417042/n03417042_422.JPEG,garbage truck,569,garbage truck,569,moving van,675
+resnet18,10,n03417042/n03417042_441.JPEG,garbage truck,569,garbage truck,569,lumbermill,634
+resnet18,10,n03417042/n03417042_4420.JPEG,garbage truck,569,garbage truck,569,grand piano,579
+resnet18,10,n03417042/n03417042_4520.JPEG,garbage truck,569,garbage truck,569,mobile home,660
+resnet18,10,n03417042/n03417042_5090.JPEG,garbage truck,569,garbage truck,569,submarine,833
+resnet18,10,n03417042/n03417042_5180.JPEG,garbage truck,569,garbage truck,569,recreational vehicle,757
+resnet18,10,n03417042/n03417042_5691.JPEG,garbage truck,569,garbage truck,569,moving van,675
+resnet18,10,n03417042/n03417042_5750.JPEG,garbage truck,569,garbage truck,569,trailer truck,867
+resnet18,10,n03417042/n03417042_5752.JPEG,garbage truck,569,garbage truck,569,moving van,675
+resnet18,10,n03417042/n03417042_5952.JPEG,garbage truck,569,garbage truck,569,trailer truck,867
+resnet18,10,n03417042/n03417042_6250.JPEG,garbage truck,569,garbage truck,569,moving van,675
+resnet18,10,n03417042/n03417042_6312.JPEG,garbage truck,569,garbage truck,569,moving van,675
+resnet18,10,n03417042/n03417042_6410.JPEG,garbage truck,569,garbage truck,569,harvester,595
+resnet18,10,n03417042/n03417042_6691.JPEG,garbage truck,569,garbage truck,569,thresher,856
+resnet18,10,n03417042/n03417042_6881.JPEG,garbage truck,569,garbage truck,569,moving van,675
+resnet18,10,n03417042/n03417042_690.JPEG,garbage truck,569,garbage truck,569,lakeside,975
+resnet18,10,n03417042/n03417042_7472.JPEG,garbage truck,569,garbage truck,569,thresher,856
+resnet18,10,n03417042/n03417042_750.JPEG,garbage truck,569,garbage truck,569,stove,827
+resnet18,10,n03417042/n03417042_7670.JPEG,garbage truck,569,garbage truck,569,snowplow,803
+resnet18,10,n03417042/n03417042_802.JPEG,garbage truck,569,garbage truck,569,thresher,856
+resnet18,10,n03417042/n03417042_8822.JPEG,garbage truck,569,garbage truck,569,snowplow,803
+resnet18,10,n03417042/n03417042_9121.JPEG,garbage truck,569,garbage truck,569,tow truck,864
+resnet18,10,n03425413/ILSVRC2012_val_00020951.JPEG,gas pump,571,gas pump,571,torch,862
+resnet18,10,n03425413/ILSVRC2012_val_00044370.JPEG,gas pump,571,gas pump,571,pay-phone,707
+resnet18,10,n03425413/n03425413_10942.JPEG,gas pump,571,gas pump,571,theater curtain,854
+resnet18,10,n03425413/n03425413_12672.JPEG,gas pump,571,gas pump,571,switch,844
+resnet18,10,n03425413/n03425413_12711.JPEG,gas pump,571,gas pump,571,mobile home,660
+resnet18,10,n03425413/n03425413_12951.JPEG,gas pump,571,gas pump,571,mailbag,636
+resnet18,10,n03425413/n03425413_12982.JPEG,gas pump,571,gas pump,571,boathouse,449
+resnet18,10,n03425413/n03425413_13170.JPEG,gas pump,571,gas pump,571,restaurant,762
+resnet18,10,n03425413/n03425413_13232.JPEG,gas pump,571,gas pump,571,cinema,498
+resnet18,10,n03425413/n03425413_1342.JPEG,gas pump,571,gas pump,571,thresher,856
+resnet18,10,n03425413/n03425413_13672.JPEG,gas pump,571,gas pump,571,thatch,853
+resnet18,10,n03425413/n03425413_13752.JPEG,gas pump,571,gas pump,571,passenger car,705
+resnet18,10,n03425413/n03425413_13770.JPEG,gas pump,571,gas pump,571,photocopier,713
+resnet18,10,n03425413/n03425413_13772.JPEG,gas pump,571,gas pump,571,cinema,498
+resnet18,10,n03425413/n03425413_13811.JPEG,gas pump,571,gas pump,571,vending machine,886
+resnet18,10,n03425413/n03425413_13821.JPEG,gas pump,571,gas pump,571,safe,771
+resnet18,10,n03425413/n03425413_1400.JPEG,gas pump,571,gas pump,571,ski,795
+resnet18,10,n03425413/n03425413_14030.JPEG,gas pump,571,gas pump,571,tobacco shop,860
+resnet18,10,n03425413/n03425413_14040.JPEG,gas pump,571,gas pump,571,ambulance,407
+resnet18,10,n03425413/n03425413_14622.JPEG,gas pump,571,gas pump,571,oxygen mask,691
+resnet18,10,n03425413/n03425413_14670.JPEG,gas pump,571,gas pump,571,jinrikisha,612
+resnet18,10,n03425413/n03425413_14681.JPEG,gas pump,571,gas pump,571,streetcar,829
+resnet18,10,n03425413/n03425413_15070.JPEG,gas pump,571,gas pump,571,garbage truck,569
+resnet18,10,n03425413/n03425413_15082.JPEG,gas pump,571,gas pump,571,vending machine,886
+resnet18,10,n03425413/n03425413_15131.JPEG,gas pump,571,gas pump,571,boathouse,449
+resnet18,10,n03425413/n03425413_15571.JPEG,gas pump,571,gas pump,571,street sign,919
+resnet18,10,n03425413/n03425413_15602.JPEG,gas pump,571,gas pump,571,ambulance,407
+resnet18,10,n03425413/n03425413_16581.JPEG,gas pump,571,gas pump,571,fire engine,555
+resnet18,10,n03425413/n03425413_17001.JPEG,gas pump,571,gas pump,571,boathouse,449
+resnet18,10,n03425413/n03425413_17100.JPEG,gas pump,571,gas pump,571,monastery,663
+resnet18,10,n03425413/n03425413_17441.JPEG,gas pump,571,gas pump,571,vending machine,886
+resnet18,10,n03425413/n03425413_17802.JPEG,gas pump,571,gas pump,571,barbershop,424
+resnet18,10,n03425413/n03425413_18430.JPEG,gas pump,571,gas pump,571,oxygen mask,691
+resnet18,10,n03425413/n03425413_18910.JPEG,gas pump,571,gas pump,571,oxygen mask,691
+resnet18,10,n03425413/n03425413_18981.JPEG,gas pump,571,gas pump,571,cash machine,480
+resnet18,10,n03425413/n03425413_19102.JPEG,gas pump,571,gas pump,571,pay-phone,707
+resnet18,10,n03425413/n03425413_19251.JPEG,gas pump,571,gas pump,571,pay-phone,707
+resnet18,10,n03425413/n03425413_19282.JPEG,gas pump,571,gas pump,571,chain saw,491
+resnet18,10,n03425413/n03425413_19350.JPEG,gas pump,571,gas pump,571,scale,778
+resnet18,10,n03425413/n03425413_20122.JPEG,gas pump,571,gas pump,571,switch,844
+resnet18,10,n03425413/n03425413_20360.JPEG,gas pump,571,gas pump,571,mobile home,660
+resnet18,10,n03425413/n03425413_20562.JPEG,gas pump,571,gas pump,571,pay-phone,707
+resnet18,10,n03425413/n03425413_20711.JPEG,gas pump,571,gas pump,571,hand-held computer,590
+resnet18,10,n03425413/n03425413_20742.JPEG,gas pump,571,gas pump,571,toyshop,865
+resnet18,10,n03425413/n03425413_21180.JPEG,gas pump,571,gas pump,571,tractor,866
+resnet18,10,n03425413/n03425413_212.JPEG,gas pump,571,gas pump,571,tobacco shop,860
+resnet18,10,n03425413/n03425413_21202.JPEG,gas pump,571,gas pump,571,monitor,664
+resnet18,10,n03425413/n03425413_21332.JPEG,gas pump,571,gas pump,571,streetcar,829
+resnet18,10,n03425413/n03425413_21362.JPEG,gas pump,571,gas pump,571,ambulance,407
+resnet18,10,n03425413/n03425413_2141.JPEG,gas pump,571,gas pump,571,vending machine,886
+resnet18,10,n03425413/n03425413_21591.JPEG,gas pump,571,gas pump,571,turnstile,877
+resnet18,10,n03425413/n03425413_22092.JPEG,gas pump,571,gas pump,571,mobile home,660
+resnet18,10,n03425413/n03425413_24522.JPEG,gas pump,571,gas pump,571,prison,743
+resnet18,10,n03425413/n03425413_2590.JPEG,gas pump,571,gas pump,571,modem,662
+resnet18,10,n03425413/n03425413_2671.JPEG,gas pump,571,gas pump,571,academic gown,400
+resnet18,10,n03425413/n03425413_27392.JPEG,gas pump,571,gas pump,571,pay-phone,707
+resnet18,10,n03425413/n03425413_3021.JPEG,gas pump,571,gas pump,571,safe,771
+resnet18,10,n03425413/n03425413_3602.JPEG,gas pump,571,gas pump,571,street sign,919
+resnet18,10,n03425413/n03425413_6851.JPEG,gas pump,571,gas pump,571,ski,795
+resnet18,10,n03425413/n03425413_7730.JPEG,gas pump,571,gas pump,571,pay-phone,707
+resnet18,10,n03425413/n03425413_7731.JPEG,gas pump,571,gas pump,571,scoreboard,781
+resnet18,10,n03425413/n03425413_7741.JPEG,gas pump,571,gas pump,571,vending machine,886
+resnet18,10,n03425413/n03425413_8420.JPEG,gas pump,571,gas pump,571,bearskin,439
+resnet18,10,n03425413/n03425413_8622.JPEG,gas pump,571,gas pump,571,chain saw,491
+resnet18,10,n03425413/n03425413_8801.JPEG,gas pump,571,gas pump,571,iron,606
+resnet18,10,n03445777/ILSVRC2012_val_00025591.JPEG,golf ball,574,golf ball,574,thimble,855
+resnet18,10,n03445777/n03445777_10030.JPEG,golf ball,574,golf ball,574,maraca,641
+resnet18,10,n03445777/n03445777_10520.JPEG,golf ball,574,golf ball,574,nematode,111
+resnet18,10,n03445777/n03445777_10750.JPEG,golf ball,574,golf ball,574,promontory,976
+resnet18,10,n03445777/n03445777_110.JPEG,golf ball,574,golf ball,574,combination lock,507
+resnet18,10,n03445777/n03445777_11122.JPEG,golf ball,574,golf ball,574,ping-pong ball,722
+resnet18,10,n03445777/n03445777_11401.JPEG,golf ball,574,golf ball,574,croquet ball,522
+resnet18,10,n03445777/n03445777_12500.JPEG,golf ball,574,golf ball,574,nipple,680
+resnet18,10,n03445777/n03445777_12862.JPEG,golf ball,574,golf ball,574,croquet ball,522
+resnet18,10,n03445777/n03445777_13161.JPEG,golf ball,574,golf ball,574,necklace,679
+resnet18,10,n03445777/n03445777_13831.JPEG,golf ball,574,golf ball,574,hand-held computer,590
+resnet18,10,n03445777/n03445777_13911.JPEG,golf ball,574,golf ball,574,face powder,551
+resnet18,10,n03445777/n03445777_14112.JPEG,golf ball,574,golf ball,574,nematode,111
+resnet18,10,n03445777/n03445777_14281.JPEG,golf ball,574,golf ball,574,packet,692
+resnet18,10,n03445777/n03445777_14531.JPEG,golf ball,574,golf ball,574,hand blower,589
+resnet18,10,n03445777/n03445777_15110.JPEG,golf ball,574,golf ball,574,indigo bunting,14
+resnet18,10,n03445777/n03445777_15152.JPEG,golf ball,574,golf ball,574,altar,406
+resnet18,10,n03445777/n03445777_1750.JPEG,golf ball,574,golf ball,574,Petri dish,712
+resnet18,10,n03445777/n03445777_1971.JPEG,golf ball,574,golf ball,574,spotlight,818
+resnet18,10,n03445777/n03445777_2031.JPEG,golf ball,574,golf ball,574,gong,577
+resnet18,10,n03445777/n03445777_20400.JPEG,golf ball,574,golf ball,574,yurt,915
+resnet18,10,n03445777/n03445777_20572.JPEG,golf ball,574,golf ball,574,croquet ball,522
+resnet18,10,n03445777/n03445777_2251.JPEG,golf ball,574,golf ball,574,croquet ball,522
+resnet18,10,n03445777/n03445777_2511.JPEG,golf ball,574,golf ball,574,reel,758
+resnet18,10,n03445777/n03445777_3222.JPEG,golf ball,574,golf ball,574,dogsled,537
+resnet18,10,n03445777/n03445777_3260.JPEG,golf ball,574,golf ball,574,solar dish,807
+resnet18,10,n03445777/n03445777_3321.JPEG,golf ball,574,golf ball,574,cassette,481
+resnet18,10,n03445777/n03445777_340.JPEG,golf ball,574,golf ball,574,tennis ball,852
+resnet18,10,n03445777/n03445777_3540.JPEG,golf ball,574,golf ball,574,Mexican hairless,268
+resnet18,10,n03445777/n03445777_3722.JPEG,golf ball,574,golf ball,574,gong,577
+resnet18,10,n03445777/n03445777_3761.JPEG,golf ball,574,golf ball,574,potter's wheel,739
+resnet18,10,n03445777/n03445777_3970.JPEG,golf ball,574,golf ball,574,shopping basket,790
+resnet18,10,n03445777/n03445777_3981.JPEG,golf ball,574,golf ball,574,rugby ball,768
+resnet18,10,n03445777/n03445777_3992.JPEG,golf ball,574,golf ball,574,banded gecko,38
+resnet18,10,n03445777/n03445777_4061.JPEG,golf ball,574,golf ball,574,Old English sheepdog,229
+resnet18,10,n03445777/n03445777_4062.JPEG,golf ball,574,golf ball,574,ping-pong ball,722
+resnet18,10,n03445777/n03445777_4070.JPEG,golf ball,574,golf ball,574,earthstar,995
+resnet18,10,n03445777/n03445777_4650.JPEG,golf ball,574,golf ball,574,tennis ball,852
+resnet18,10,n03445777/n03445777_4901.JPEG,golf ball,574,golf ball,574,maraca,641
+resnet18,10,n03445777/n03445777_5300.JPEG,golf ball,574,golf ball,574,croquet ball,522
+resnet18,10,n03445777/n03445777_5670.JPEG,golf ball,574,golf ball,574,shower cap,793
+resnet18,10,n03445777/n03445777_5790.JPEG,golf ball,574,golf ball,574,nipple,680
+resnet18,10,n03445777/n03445777_5812.JPEG,golf ball,574,golf ball,574,electric ray,5
+resnet18,10,n03445777/n03445777_6052.JPEG,golf ball,574,golf ball,574,abacus,398
+resnet18,10,n03445777/n03445777_6071.JPEG,golf ball,574,golf ball,574,spotlight,818
+resnet18,10,n03445777/n03445777_6101.JPEG,golf ball,574,golf ball,574,tennis ball,852
+resnet18,10,n03445777/n03445777_6242.JPEG,golf ball,574,golf ball,574,table lamp,846
+resnet18,10,n03445777/n03445777_6761.JPEG,golf ball,574,golf ball,574,jellyfish,107
+resnet18,10,n03445777/n03445777_7251.JPEG,golf ball,574,golf ball,574,croquet ball,522
+resnet18,10,n03445777/n03445777_7580.JPEG,golf ball,574,golf ball,574,pole,733
+resnet18,10,n03445777/n03445777_7652.JPEG,golf ball,574,golf ball,574,ping-pong ball,722
+resnet18,10,n03445777/n03445777_7711.JPEG,golf ball,574,golf ball,574,dugong,149
+resnet18,10,n03445777/n03445777_7931.JPEG,golf ball,574,golf ball,574,electric ray,5
+resnet18,10,n03445777/n03445777_7991.JPEG,golf ball,574,golf ball,574,guillotine,583
+resnet18,10,n03445777/n03445777_8790.JPEG,golf ball,574,golf ball,574,puck,746
+resnet18,10,n03445777/n03445777_9900.JPEG,golf ball,574,golf ball,574,airship,405
+resnet18,10,n03888257/ILSVRC2012_val_00038942.JPEG,parachute,701,parachute,701,lakeside,975
+resnet18,10,n03888257/n03888257_10050.JPEG,parachute,701,parachute,701,space shuttle,812
+resnet18,10,n03888257/n03888257_10341.JPEG,parachute,701,parachute,701,airship,405
+resnet18,10,n03888257/n03888257_10402.JPEG,parachute,701,parachute,701,oxygen mask,691
+resnet18,10,n03888257/n03888257_1100.JPEG,parachute,701,parachute,701,airship,405
+resnet18,10,n03888257/n03888257_11210.JPEG,parachute,701,parachute,701,missile,657
+resnet18,10,n03888257/n03888257_11222.JPEG,parachute,701,parachute,701,nematode,111
+resnet18,10,n03888257/n03888257_11450.JPEG,parachute,701,parachute,701,water tower,900
+resnet18,10,n03888257/n03888257_11580.JPEG,parachute,701,parachute,701,nematode,111
+resnet18,10,n03888257/n03888257_12811.JPEG,parachute,701,parachute,701,stretcher,830
+resnet18,10,n03888257/n03888257_12842.JPEG,parachute,701,parachute,701,missile,657
+resnet18,10,n03888257/n03888257_12900.JPEG,parachute,701,parachute,701,volcano,980
+resnet18,10,n03888257/n03888257_13100.JPEG,parachute,701,parachute,701,killer whale,148
+resnet18,10,n03888257/n03888257_13600.JPEG,parachute,701,parachute,701,ski,795
+resnet18,10,n03888257/n03888257_14090.JPEG,parachute,701,parachute,701,sea snake,65
+resnet18,10,n03888257/n03888257_15491.JPEG,parachute,701,parachute,701,common newt,26
+resnet18,10,n03888257/n03888257_16112.JPEG,parachute,701,parachute,701,pinwheel,723
+resnet18,10,n03888257/n03888257_16542.JPEG,parachute,701,parachute,701,sea snake,65
+resnet18,10,n03888257/n03888257_16741.JPEG,parachute,701,parachute,701,umbrella,879
+resnet18,10,n03888257/n03888257_17340.JPEG,parachute,701,parachute,701,solar dish,807
+resnet18,10,n03888257/n03888257_17690.JPEG,parachute,701,parachute,701,ski,795
+resnet18,10,n03888257/n03888257_18181.JPEG,parachute,701,parachute,701,ski,795
+resnet18,10,n03888257/n03888257_18441.JPEG,parachute,701,parachute,701,promontory,976
+resnet18,10,n03888257/n03888257_18560.JPEG,parachute,701,parachute,701,ski,795
+resnet18,10,n03888257/n03888257_19211.JPEG,parachute,701,parachute,701,seashore,978
+resnet18,10,n03888257/n03888257_21552.JPEG,parachute,701,parachute,701,ear,998
+resnet18,10,n03888257/n03888257_21932.JPEG,parachute,701,parachute,701,valley,979
+resnet18,10,n03888257/n03888257_22540.JPEG,parachute,701,parachute,701,airship,405
+resnet18,10,n03888257/n03888257_23571.JPEG,parachute,701,parachute,701,jellyfish,107
+resnet18,10,n03888257/n03888257_23801.JPEG,parachute,701,parachute,701,airship,405
+resnet18,10,n03888257/n03888257_28581.JPEG,parachute,701,parachute,701,ski,795
+resnet18,10,n03888257/n03888257_29050.JPEG,parachute,701,parachute,701,container ship,510
+resnet18,10,n03888257/n03888257_29712.JPEG,parachute,701,parachute,701,chambered nautilus,117
+resnet18,10,n03888257/n03888257_30402.JPEG,parachute,701,parachute,701,drilling platform,540
+resnet18,10,n03888257/n03888257_30521.JPEG,parachute,701,parachute,701,pinwheel,723
+resnet18,10,n03888257/n03888257_30911.JPEG,parachute,701,parachute,701,ski,795
+resnet18,10,n03888257/n03888257_32001.JPEG,parachute,701,parachute,701,lakeside,975
+resnet18,10,n03888257/n03888257_32032.JPEG,parachute,701,parachute,701,airship,405
+resnet18,10,n03888257/n03888257_33070.JPEG,parachute,701,parachute,701,balloon,417
+resnet18,10,n03888257/n03888257_33481.JPEG,parachute,701,parachute,701,seashore,978
+resnet18,10,n03888257/n03888257_33931.JPEG,parachute,701,parachute,701,flatworm,110
+resnet18,10,n03888257/n03888257_34031.JPEG,parachute,701,parachute,701,scuba diver,983
+resnet18,10,n03888257/n03888257_34452.JPEG,parachute,701,parachute,701,hammerhead,4
+resnet18,10,n03888257/n03888257_35962.JPEG,parachute,701,parachute,701,warplane,895
+resnet18,10,n03888257/n03888257_3632.JPEG,parachute,701,parachute,701,nematode,111
+resnet18,10,n03888257/n03888257_37362.JPEG,parachute,701,parachute,701,barn spider,73
+resnet18,10,n03888257/n03888257_38200.JPEG,parachute,701,parachute,701,screen,782
+resnet18,10,n03888257/n03888257_39031.JPEG,parachute,701,parachute,701,airship,405
+resnet18,10,n03888257/n03888257_39511.JPEG,parachute,701,parachute,701,ski,795
+resnet18,10,n03888257/n03888257_44112.JPEG,parachute,701,parachute,701,reel,758
+resnet18,10,n03888257/n03888257_4580.JPEG,parachute,701,parachute,701,jigsaw puzzle,611
+resnet18,10,n03888257/n03888257_46572.JPEG,parachute,701,parachute,701,airship,405
+resnet18,10,n03888257/n03888257_482.JPEG,parachute,701,parachute,701,wreck,913
+resnet18,10,n03888257/n03888257_48910.JPEG,parachute,701,parachute,701,maze,646
+resnet18,10,n03888257/n03888257_49081.JPEG,parachute,701,parachute,701,sleeping bag,797
+resnet18,10,n03888257/n03888257_49381.JPEG,parachute,701,parachute,701,airship,405
+resnet18,10,n03888257/n03888257_50102.JPEG,parachute,701,parachute,701,hook,600
+resnet18,10,n03888257/n03888257_59412.JPEG,parachute,701,parachute,701,ski,795
+resnet18,10,n03888257/n03888257_6250.JPEG,parachute,701,parachute,701,nematode,111
+resnet18,10,n03888257/n03888257_66361.JPEG,parachute,701,parachute,701,seashore,978
+resnet18,10,n03888257/n03888257_6662.JPEG,parachute,701,parachute,701,cleaver,499
+resnet18,10,n03888257/n03888257_67480.JPEG,parachute,701,parachute,701,umbrella,879
+resnet18,10,n03888257/n03888257_68660.JPEG,parachute,701,parachute,701,solar dish,807
+resnet18,10,n03888257/n03888257_7011.JPEG,parachute,701,parachute,701,airliner,404
+resnet18,10,n03888257/n03888257_7061.JPEG,parachute,701,parachute,701,tick,78
+resnet18,10,n03888257/n03888257_72591.JPEG,parachute,701,parachute,701,airship,405
+resnet18,10,n03888257/n03888257_73320.JPEG,parachute,701,parachute,701,ibex,350
+resnet18,10,n03888257/n03888257_7610.JPEG,parachute,701,parachute,701,space shuttle,812
+resnet18,10,n03888257/n03888257_7921.JPEG,parachute,701,parachute,701,jellyfish,107
+resnet18,10,n03888257/n03888257_8001.JPEG,parachute,701,parachute,701,maypole,645
+resnet18,10,n03888257/n03888257_8502.JPEG,parachute,701,parachute,701,airship,405
+resnet18,10,n03888257/n03888257_9082.JPEG,parachute,701,parachute,701,tank,847
+resnet18,10,n03888257/n03888257_9301.JPEG,parachute,701,parachute,701,airship,405
+resnet18,10,n03888257/n03888257_9650.JPEG,parachute,701,parachute,701,tick,78
+vit_b_16,10,n01440764/n01440764_10042.JPEG,tench,0,tench,0,coho,391
+vit_b_16,10,n01440764/n01440764_10211.JPEG,tench,0,tench,0,barracouta,389
+vit_b_16,10,n01440764/n01440764_12971.JPEG,tench,0,tench,0,axolotl,29
+vit_b_16,10,n01440764/n01440764_1951.JPEG,tench,0,tench,0,tiger shark,3
+vit_b_16,10,n01440764/n01440764_23111.JPEG,tench,0,tench,0,electric ray,5
+vit_b_16,10,n01440764/n01440764_25090.JPEG,tench,0,tench,0,sturgeon,394
+vit_b_16,10,n01440764/n01440764_4962.JPEG,tench,0,tench,0,nematode,111
+vit_b_16,10,n01440764/n01440764_8421.JPEG,tench,0,tench,0,custard apple,956
+vit_b_16,10,n01440764/n01440764_9772.JPEG,tench,0,tench,0,barracouta,389
+vit_b_16,10,n02102040/ILSVRC2012_val_00023242.JPEG,English springer,217,English springer,217,English setter,212
+vit_b_16,10,n02102040/ILSVRC2012_val_00023440.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+vit_b_16,10,n02102040/n02102040_1011.JPEG,English springer,217,English springer,217,Japanese spaniel,152
+vit_b_16,10,n02102040/n02102040_1081.JPEG,English springer,217,English springer,217,clumber,216
+vit_b_16,10,n02102040/n02102040_1110.JPEG,English springer,217,English springer,217,Japanese spaniel,152
+vit_b_16,10,n02102040/n02102040_1112.JPEG,English springer,217,English springer,217,bluetick,164
+vit_b_16,10,n02102040/n02102040_1172.JPEG,English springer,217,English springer,217,beagle,162
+vit_b_16,10,n02102040/n02102040_1222.JPEG,English springer,217,English springer,217,English setter,212
+vit_b_16,10,n02102040/n02102040_1272.JPEG,English springer,217,English springer,217,Saluki,176
+vit_b_16,10,n02102040/n02102040_1292.JPEG,English springer,217,English springer,217,cocker spaniel,219
+vit_b_16,10,n02102040/n02102040_1301.JPEG,English springer,217,English springer,217,lakeside,975
+vit_b_16,10,n02102040/n02102040_1302.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+vit_b_16,10,n02102040/n02102040_1430.JPEG,English springer,217,English springer,217,English setter,212
+vit_b_16,10,n02102040/n02102040_1450.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+vit_b_16,10,n02102040/n02102040_1612.JPEG,English springer,217,English springer,217,Japanese spaniel,152
+vit_b_16,10,n02102040/n02102040_1632.JPEG,English springer,217,English springer,217,Tibetan terrier,200
+vit_b_16,10,n02102040/n02102040_1642.JPEG,English springer,217,English springer,217,English setter,212
+vit_b_16,10,n02102040/n02102040_1771.JPEG,English springer,217,English springer,217,borzoi,169
+vit_b_16,10,n02102040/n02102040_1782.JPEG,English springer,217,English springer,217,Sussex spaniel,220
+vit_b_16,10,n02102040/n02102040_1830.JPEG,English springer,217,English springer,217,standard schnauzer,198
+vit_b_16,10,n02102040/n02102040_1980.JPEG,English springer,217,English springer,217,Greater Swiss Mountain dog,238
+vit_b_16,10,n02102040/n02102040_2051.JPEG,English springer,217,English springer,217,Sussex spaniel,220
+vit_b_16,10,n02102040/n02102040_2111.JPEG,English springer,217,English springer,217,Bernese mountain dog,239
+vit_b_16,10,n02102040/n02102040_2572.JPEG,English springer,217,English springer,217,miniature schnauzer,196
+vit_b_16,10,n02102040/n02102040_2702.JPEG,English springer,217,English springer,217,Welsh springer spaniel,218
+vit_b_16,10,n02102040/n02102040_2730.JPEG,English springer,217,English springer,217,Brittany spaniel,215
+vit_b_16,10,n02102040/n02102040_2842.JPEG,English springer,217,English springer,217,Welsh springer spaniel,218
+vit_b_16,10,n02102040/n02102040_2941.JPEG,English springer,217,English springer,217,English setter,212
+vit_b_16,10,n02102040/n02102040_2951.JPEG,English springer,217,English springer,217,clumber,216
+vit_b_16,10,n02102040/n02102040_2961.JPEG,English springer,217,English springer,217,Brittany spaniel,215
+vit_b_16,10,n02102040/n02102040_3091.JPEG,English springer,217,English springer,217,Brittany spaniel,215
+vit_b_16,10,n02102040/n02102040_3180.JPEG,English springer,217,English springer,217,Border collie,232
+vit_b_16,10,n02102040/n02102040_3201.JPEG,English springer,217,English springer,217,Welsh springer spaniel,218
+vit_b_16,10,n02102040/n02102040_3290.JPEG,English springer,217,English springer,217,Border collie,232
+vit_b_16,10,n02102040/n02102040_3311.JPEG,English springer,217,English springer,217,Sussex spaniel,220
+vit_b_16,10,n02102040/n02102040_3371.JPEG,English springer,217,English springer,217,Border collie,232
+vit_b_16,10,n02102040/n02102040_3452.JPEG,English springer,217,English springer,217,Welsh springer spaniel,218
+vit_b_16,10,n02102040/n02102040_3582.JPEG,English springer,217,English springer,217,Border collie,232
+vit_b_16,10,n02102040/n02102040_3601.JPEG,English springer,217,English springer,217,Egyptian cat,285
+vit_b_16,10,n02102040/n02102040_3691.JPEG,English springer,217,English springer,217,Border collie,232
+vit_b_16,10,n02102040/n02102040_3792.JPEG,English springer,217,English springer,217,Japanese spaniel,152
+vit_b_16,10,n02102040/n02102040_3931.JPEG,English springer,217,English springer,217,Newfoundland,256
+vit_b_16,10,n02102040/n02102040_4020.JPEG,English springer,217,English springer,217,Sussex spaniel,220
+vit_b_16,10,n02102040/n02102040_4272.JPEG,English springer,217,English springer,217,Sussex spaniel,220
+vit_b_16,10,n02102040/n02102040_4350.JPEG,English springer,217,English springer,217,Cardigan,264
+vit_b_16,10,n02102040/n02102040_4392.JPEG,English springer,217,English springer,217,Welsh springer spaniel,218
+vit_b_16,10,n02102040/n02102040_4410.JPEG,English springer,217,English springer,217,Border collie,232
+vit_b_16,10,n02102040/n02102040_4411.JPEG,English springer,217,English springer,217,Brittany spaniel,215
+vit_b_16,10,n02102040/n02102040_4450.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+vit_b_16,10,n02102040/n02102040_4481.JPEG,English springer,217,English springer,217,Siberian husky,250
+vit_b_16,10,n02102040/n02102040_4650.JPEG,English springer,217,English springer,217,Welsh springer spaniel,218
+vit_b_16,10,n02102040/n02102040_4670.JPEG,English springer,217,English springer,217,Saluki,176
+vit_b_16,10,n02102040/n02102040_4851.JPEG,English springer,217,English springer,217,Blenheim spaniel,156
+vit_b_16,10,n02102040/n02102040_5060.JPEG,English springer,217,English springer,217,Border collie,232
+vit_b_16,10,n02102040/n02102040_5061.JPEG,English springer,217,English springer,217,Brittany spaniel,215
+vit_b_16,10,n02102040/n02102040_5272.JPEG,English springer,217,English springer,217,Border collie,232
+vit_b_16,10,n02102040/n02102040_562.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+vit_b_16,10,n02102040/n02102040_5790.JPEG,English springer,217,English springer,217,Border collie,232
+vit_b_16,10,n02102040/n02102040_5851.JPEG,English springer,217,English springer,217,Bernese mountain dog,239
+vit_b_16,10,n02102040/n02102040_5881.JPEG,English springer,217,English springer,217,Border collie,232
+vit_b_16,10,n02102040/n02102040_602.JPEG,English springer,217,English springer,217,Sussex spaniel,220
+vit_b_16,10,n02102040/n02102040_6050.JPEG,English springer,217,English springer,217,Brittany spaniel,215
+vit_b_16,10,n02102040/n02102040_6072.JPEG,English springer,217,English springer,217,English setter,212
+vit_b_16,10,n02102040/n02102040_6081.JPEG,English springer,217,English springer,217,English setter,212
+vit_b_16,10,n02102040/n02102040_610.JPEG,English springer,217,English springer,217,Cardigan,264
+vit_b_16,10,n02102040/n02102040_620.JPEG,English springer,217,English springer,217,English setter,212
+vit_b_16,10,n02102040/n02102040_6201.JPEG,English springer,217,English springer,217,Welsh springer spaniel,218
+vit_b_16,10,n02102040/n02102040_621.JPEG,English springer,217,English springer,217,Japanese spaniel,152
+vit_b_16,10,n02102040/n02102040_622.JPEG,English springer,217,English springer,217,Newfoundland,256
+vit_b_16,10,n02102040/n02102040_6232.JPEG,English springer,217,English springer,217,Newfoundland,256
+vit_b_16,10,n02102040/n02102040_671.JPEG,English springer,217,English springer,217,Brittany spaniel,215
+vit_b_16,10,n02102040/n02102040_6710.JPEG,English springer,217,English springer,217,Border collie,232
+vit_b_16,10,n02102040/n02102040_681.JPEG,English springer,217,English springer,217,Bernese mountain dog,239
+vit_b_16,10,n02102040/n02102040_6890.JPEG,English springer,217,English springer,217,Brittany spaniel,215
+vit_b_16,10,n02102040/n02102040_6892.JPEG,English springer,217,English springer,217,Brittany spaniel,215
+vit_b_16,10,n02102040/n02102040_702.JPEG,English springer,217,English springer,217,Newfoundland,256
+vit_b_16,10,n02102040/n02102040_7270.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+vit_b_16,10,n02102040/n02102040_7421.JPEG,English springer,217,English springer,217,pug,254
+vit_b_16,10,n02102040/n02102040_7480.JPEG,English springer,217,English springer,217,Welsh springer spaniel,218
+vit_b_16,10,n02102040/n02102040_7510.JPEG,English springer,217,English springer,217,English setter,212
+vit_b_16,10,n02102040/n02102040_752.JPEG,English springer,217,English springer,217,Welsh springer spaniel,218
+vit_b_16,10,n02102040/n02102040_762.JPEG,English springer,217,English springer,217,Border collie,232
+vit_b_16,10,n02102040/n02102040_7792.JPEG,English springer,217,English springer,217,Cardigan,264
+vit_b_16,10,n02102040/n02102040_791.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+vit_b_16,10,n02102040/n02102040_8132.JPEG,English springer,217,English springer,217,Greater Swiss Mountain dog,238
+vit_b_16,10,n02102040/n02102040_8260.JPEG,English springer,217,English springer,217,Walker hound,166
+vit_b_16,10,n02102040/n02102040_8300.JPEG,English springer,217,English springer,217,Cardigan,264
+vit_b_16,10,n02102040/n02102040_8372.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+vit_b_16,10,n02102040/n02102040_880.JPEG,English springer,217,English springer,217,Welsh springer spaniel,218
+vit_b_16,10,n02102040/n02102040_901.JPEG,English springer,217,English springer,217,Border collie,232
+vit_b_16,10,n02102040/n02102040_911.JPEG,English springer,217,English springer,217,bluetick,164
+vit_b_16,10,n02102040/n02102040_922.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+vit_b_16,10,n02102040/n02102040_960.JPEG,English springer,217,English springer,217,crossword puzzle,918
+vit_b_16,10,n02102040/n02102040_970.JPEG,English springer,217,English springer,217,Tibetan terrier,200
+vit_b_16,10,n02102040/n02102040_981.JPEG,English springer,217,English springer,217,German short-haired pointer,210
+vit_b_16,10,n02979186/n02979186_11410.JPEG,cassette player,482,cassette player,482,violin,889
+vit_b_16,10,n02979186/n02979186_11481.JPEG,cassette player,482,cassette player,482,tape player,848
+vit_b_16,10,n02979186/n02979186_13250.JPEG,cassette player,482,cassette player,482,CD player,485
+vit_b_16,10,n02979186/n02979186_13502.JPEG,cassette player,482,cassette player,482,tow truck,864
+vit_b_16,10,n02979186/n02979186_13572.JPEG,cassette player,482,cassette player,482,television,851
+vit_b_16,10,n02979186/n02979186_13851.JPEG,cassette player,482,cassette player,482,park bench,703
+vit_b_16,10,n02979186/n02979186_1401.JPEG,cassette player,482,cassette player,482,tape player,848
+vit_b_16,10,n02979186/n02979186_14471.JPEG,cassette player,482,cassette player,482,guillotine,583
+vit_b_16,10,n02979186/n02979186_15931.JPEG,cassette player,482,cassette player,482,hand-held computer,590
+vit_b_16,10,n02979186/n02979186_1841.JPEG,cassette player,482,cassette player,482,cash machine,480
+vit_b_16,10,n02979186/n02979186_2172.JPEG,cassette player,482,cassette player,482,tape player,848
+vit_b_16,10,n02979186/n02979186_22882.JPEG,cassette player,482,cassette player,482,hand-held computer,590
+vit_b_16,10,n02979186/n02979186_24492.JPEG,cassette player,482,cassette player,482,desktop computer,527
+vit_b_16,10,n02979186/n02979186_26822.JPEG,cassette player,482,cassette player,482,cassette,481
+vit_b_16,10,n02979186/n02979186_3200.JPEG,cassette player,482,cassette player,482,tape player,848
+vit_b_16,10,n02979186/n02979186_3472.JPEG,cassette player,482,cassette player,482,mousetrap,674
+vit_b_16,10,n02979186/n02979186_351.JPEG,cassette player,482,cassette player,482,minivan,656
+vit_b_16,10,n02979186/n02979186_4341.JPEG,cassette player,482,cassette player,482,loupe,633
+vit_b_16,10,n02979186/n02979186_4852.JPEG,cassette player,482,cassette player,482,tape player,848
+vit_b_16,10,n02979186/n02979186_960.JPEG,cassette player,482,cassette player,482,stove,827
+vit_b_16,10,n03000684/n03000684_10960.JPEG,chain saw,491,chain saw,491,stretcher,830
+vit_b_16,10,n03000684/n03000684_10992.JPEG,chain saw,491,chain saw,491,go-kart,573
+vit_b_16,10,n03000684/n03000684_1100.JPEG,chain saw,491,chain saw,491,unicycle,880
+vit_b_16,10,n03000684/n03000684_14120.JPEG,chain saw,491,chain saw,491,guillotine,583
+vit_b_16,10,n03000684/n03000684_14391.JPEG,chain saw,491,chain saw,491,thatch,853
+vit_b_16,10,n03000684/n03000684_16092.JPEG,chain saw,491,chain saw,491,stretcher,830
+vit_b_16,10,n03000684/n03000684_16542.JPEG,chain saw,491,chain saw,491,balance beam,416
+vit_b_16,10,n03000684/n03000684_1692.JPEG,chain saw,491,chain saw,491,dumbbell,543
+vit_b_16,10,n03000684/n03000684_17132.JPEG,chain saw,491,chain saw,491,horizontal bar,602
+vit_b_16,10,n03000684/n03000684_17261.JPEG,chain saw,491,chain saw,491,lumbermill,634
+vit_b_16,10,n03000684/n03000684_19211.JPEG,chain saw,491,chain saw,491,gar,395
+vit_b_16,10,n03000684/n03000684_21831.JPEG,chain saw,491,chain saw,491,lumbermill,634
+vit_b_16,10,n03000684/n03000684_22892.JPEG,chain saw,491,chain saw,491,projectile,744
+vit_b_16,10,n03000684/n03000684_25951.JPEG,chain saw,491,chain saw,491,colobus,375
+vit_b_16,10,n03000684/n03000684_2972.JPEG,chain saw,491,chain saw,491,stretcher,830
+vit_b_16,10,n03000684/n03000684_32.JPEG,chain saw,491,chain saw,491,hammer,587
+vit_b_16,10,n03000684/n03000684_33902.JPEG,chain saw,491,chain saw,491,bow,456
+vit_b_16,10,n03000684/n03000684_3470.JPEG,chain saw,491,chain saw,491,lumbermill,634
+vit_b_16,10,n03000684/n03000684_4351.JPEG,chain saw,491,chain saw,491,stretcher,830
+vit_b_16,10,n03000684/n03000684_502.JPEG,chain saw,491,chain saw,491,lumbermill,634
+vit_b_16,10,n03000684/n03000684_6881.JPEG,chain saw,491,chain saw,491,lawn mower,621
+vit_b_16,10,n03000684/n03000684_8502.JPEG,chain saw,491,chain saw,491,harvester,595
+vit_b_16,10,n03000684/n03000684_9440.JPEG,chain saw,491,chain saw,491,prison,743
+vit_b_16,10,n03000684/n03000684_9741.JPEG,chain saw,491,chain saw,491,radio,754
+vit_b_16,10,n03028079/ILSVRC2012_val_00003351.JPEG,church,497,church,497,fountain,562
+vit_b_16,10,n03028079/ILSVRC2012_val_00003682.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/ILSVRC2012_val_00004912.JPEG,church,497,church,497,beacon,437
+vit_b_16,10,n03028079/ILSVRC2012_val_00010770.JPEG,church,497,church,497,vault,884
+vit_b_16,10,n03028079/ILSVRC2012_val_00023000.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/ILSVRC2012_val_00028310.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/ILSVRC2012_val_00034220.JPEG,church,497,church,497,bell cote,442
+vit_b_16,10,n03028079/n03028079_10020.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_10040.JPEG,church,497,church,497,altar,406
+vit_b_16,10,n03028079/n03028079_10141.JPEG,church,497,church,497,volcano,980
+vit_b_16,10,n03028079/n03028079_102.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_10451.JPEG,church,497,church,497,altar,406
+vit_b_16,10,n03028079/n03028079_10452.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_1090.JPEG,church,497,church,497,bell cote,442
+vit_b_16,10,n03028079/n03028079_11250.JPEG,church,497,church,497,beacon,437
+vit_b_16,10,n03028079/n03028079_11401.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_12090.JPEG,church,497,church,497,bell cote,442
+vit_b_16,10,n03028079/n03028079_122592.JPEG,church,497,church,497,seashore,978
+vit_b_16,10,n03028079/n03028079_12681.JPEG,church,497,church,497,bell cote,442
+vit_b_16,10,n03028079/n03028079_13311.JPEG,church,497,church,497,obelisk,682
+vit_b_16,10,n03028079/n03028079_13952.JPEG,church,497,church,497,beacon,437
+vit_b_16,10,n03028079/n03028079_14010.JPEG,church,497,church,497,library,624
+vit_b_16,10,n03028079/n03028079_14192.JPEG,church,497,church,497,vault,884
+vit_b_16,10,n03028079/n03028079_14860.JPEG,church,497,church,497,vault,884
+vit_b_16,10,n03028079/n03028079_14920.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_1501.JPEG,church,497,church,497,palace,698
+vit_b_16,10,n03028079/n03028079_15262.JPEG,church,497,church,497,castle,483
+vit_b_16,10,n03028079/n03028079_15392.JPEG,church,497,church,497,bell cote,442
+vit_b_16,10,n03028079/n03028079_15602.JPEG,church,497,church,497,altar,406
+vit_b_16,10,n03028079/n03028079_15961.JPEG,church,497,church,497,vault,884
+vit_b_16,10,n03028079/n03028079_16080.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_16361.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_16660.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_17171.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_17302.JPEG,church,497,church,497,palace,698
+vit_b_16,10,n03028079/n03028079_17461.JPEG,church,497,church,497,altar,406
+vit_b_16,10,n03028079/n03028079_17561.JPEG,church,497,church,497,bell cote,442
+vit_b_16,10,n03028079/n03028079_18371.JPEG,church,497,church,497,flagpole,557
+vit_b_16,10,n03028079/n03028079_20312.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_2060.JPEG,church,497,church,497,bell cote,442
+vit_b_16,10,n03028079/n03028079_21591.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_2321.JPEG,church,497,church,497,bell cote,442
+vit_b_16,10,n03028079/n03028079_2342.JPEG,church,497,church,497,airship,405
+vit_b_16,10,n03028079/n03028079_24602.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_24642.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_2510.JPEG,church,497,church,497,vault,884
+vit_b_16,10,n03028079/n03028079_25612.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_25680.JPEG,church,497,church,497,magnetic compass,635
+vit_b_16,10,n03028079/n03028079_25712.JPEG,church,497,church,497,beacon,437
+vit_b_16,10,n03028079/n03028079_26110.JPEG,church,497,church,497,mosque,668
+vit_b_16,10,n03028079/n03028079_26291.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_26371.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_26390.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_26571.JPEG,church,497,church,497,vault,884
+vit_b_16,10,n03028079/n03028079_26842.JPEG,church,497,church,497,bell cote,442
+vit_b_16,10,n03028079/n03028079_27060.JPEG,church,497,church,497,bell cote,442
+vit_b_16,10,n03028079/n03028079_27511.JPEG,church,497,church,497,bell cote,442
+vit_b_16,10,n03028079/n03028079_27980.JPEG,church,497,church,497,restaurant,762
+vit_b_16,10,n03028079/n03028079_28352.JPEG,church,497,church,497,bell cote,442
+vit_b_16,10,n03028079/n03028079_2842.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_2941.JPEG,church,497,church,497,bell cote,442
+vit_b_16,10,n03028079/n03028079_29410.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_29461.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_2952.JPEG,church,497,church,497,boathouse,449
+vit_b_16,10,n03028079/n03028079_3000.JPEG,church,497,church,497,beacon,437
+vit_b_16,10,n03028079/n03028079_30181.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_30232.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_30460.JPEG,church,497,church,497,vault,884
+vit_b_16,10,n03028079/n03028079_30642.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_30751.JPEG,church,497,church,497,beacon,437
+vit_b_16,10,n03028079/n03028079_3081.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_3192.JPEG,church,497,church,497,palace,698
+vit_b_16,10,n03028079/n03028079_32110.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_3320.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_33241.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_3400.JPEG,church,497,church,497,bell cote,442
+vit_b_16,10,n03028079/n03028079_34051.JPEG,church,497,church,497,lakeside,975
+vit_b_16,10,n03028079/n03028079_3432.JPEG,church,497,church,497,dome,538
+vit_b_16,10,n03028079/n03028079_35911.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_362.JPEG,church,497,church,497,bell cote,442
+vit_b_16,10,n03028079/n03028079_3670.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_36821.JPEG,church,497,church,497,bell cote,442
+vit_b_16,10,n03028079/n03028079_40120.JPEG,church,497,church,497,beacon,437
+vit_b_16,10,n03028079/n03028079_4022.JPEG,church,497,church,497,bell cote,442
+vit_b_16,10,n03028079/n03028079_40412.JPEG,church,497,church,497,altar,406
+vit_b_16,10,n03028079/n03028079_40510.JPEG,church,497,church,497,bell cote,442
+vit_b_16,10,n03028079/n03028079_40711.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_41101.JPEG,church,497,church,497,fountain,562
+vit_b_16,10,n03028079/n03028079_42222.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_4292.JPEG,church,497,church,497,vault,884
+vit_b_16,10,n03028079/n03028079_43102.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_4320.JPEG,church,497,church,497,bell cote,442
+vit_b_16,10,n03028079/n03028079_4572.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_4612.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_4651.JPEG,church,497,church,497,beacon,437
+vit_b_16,10,n03028079/n03028079_46722.JPEG,church,497,church,497,bell cote,442
+vit_b_16,10,n03028079/n03028079_4821.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_49281.JPEG,church,497,church,497,altar,406
+vit_b_16,10,n03028079/n03028079_50060.JPEG,church,497,church,497,bell cote,442
+vit_b_16,10,n03028079/n03028079_5232.JPEG,church,497,church,497,castle,483
+vit_b_16,10,n03028079/n03028079_5432.JPEG,church,497,church,497,bell cote,442
+vit_b_16,10,n03028079/n03028079_54480.JPEG,church,497,church,497,palace,698
+vit_b_16,10,n03028079/n03028079_5690.JPEG,church,497,church,497,bell cote,442
+vit_b_16,10,n03028079/n03028079_5852.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_58650.JPEG,church,497,church,497,castle,483
+vit_b_16,10,n03028079/n03028079_5942.JPEG,church,497,church,497,bell cote,442
+vit_b_16,10,n03028079/n03028079_6110.JPEG,church,497,church,497,bell cote,442
+vit_b_16,10,n03028079/n03028079_61951.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_6421.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_6601.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_6720.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_6912.JPEG,church,497,church,497,beacon,437
+vit_b_16,10,n03028079/n03028079_71550.JPEG,church,497,church,497,organ,687
+vit_b_16,10,n03028079/n03028079_7392.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_75880.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_800.JPEG,church,497,church,497,beacon,437
+vit_b_16,10,n03028079/n03028079_80352.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_8151.JPEG,church,497,church,497,bell cote,442
+vit_b_16,10,n03028079/n03028079_8382.JPEG,church,497,church,497,bell cote,442
+vit_b_16,10,n03028079/n03028079_8720.JPEG,church,497,church,497,palace,698
+vit_b_16,10,n03028079/n03028079_87780.JPEG,church,497,church,497,bannister,421
+vit_b_16,10,n03028079/n03028079_8971.JPEG,church,497,church,497,organ,687
+vit_b_16,10,n03028079/n03028079_9220.JPEG,church,497,church,497,geyser,974
+vit_b_16,10,n03028079/n03028079_9500.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_9580.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_9632.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_9810.JPEG,church,497,church,497,monastery,663
+vit_b_16,10,n03028079/n03028079_9920.JPEG,church,497,church,497,half track,586
+vit_b_16,10,n03394916/n03394916_14002.JPEG,French horn,566,French horn,566,trombone,875
+vit_b_16,10,n03394916/n03394916_26270.JPEG,French horn,566,French horn,566,sax,776
+vit_b_16,10,n03394916/n03394916_28461.JPEG,French horn,566,French horn,566,trombone,875
+vit_b_16,10,n03394916/n03394916_29541.JPEG,French horn,566,French horn,566,cornet,513
+vit_b_16,10,n03394916/n03394916_29722.JPEG,French horn,566,French horn,566,bassoon,432
+vit_b_16,10,n03394916/n03394916_29940.JPEG,French horn,566,French horn,566,toyshop,865
+vit_b_16,10,n03394916/n03394916_30671.JPEG,French horn,566,French horn,566,trombone,875
+vit_b_16,10,n03394916/n03394916_31871.JPEG,French horn,566,French horn,566,sax,776
+vit_b_16,10,n03394916/n03394916_33012.JPEG,French horn,566,French horn,566,studio couch,831
+vit_b_16,10,n03394916/n03394916_33352.JPEG,French horn,566,French horn,566,sax,776
+vit_b_16,10,n03394916/n03394916_33380.JPEG,French horn,566,French horn,566,stretcher,830
+vit_b_16,10,n03394916/n03394916_33481.JPEG,French horn,566,French horn,566,abaya,399
+vit_b_16,10,n03394916/n03394916_34012.JPEG,French horn,566,French horn,566,stage,819
+vit_b_16,10,n03394916/n03394916_36361.JPEG,French horn,566,French horn,566,gong,577
+vit_b_16,10,n03394916/n03394916_37571.JPEG,French horn,566,French horn,566,cornet,513
+vit_b_16,10,n03394916/n03394916_37852.JPEG,French horn,566,French horn,566,cowboy boot,514
+vit_b_16,10,n03394916/n03394916_37960.JPEG,French horn,566,French horn,566,tennis ball,852
+vit_b_16,10,n03394916/n03394916_39102.JPEG,French horn,566,French horn,566,cornet,513
+vit_b_16,10,n03394916/n03394916_40301.JPEG,French horn,566,French horn,566,cello,486
+vit_b_16,10,n03394916/n03394916_41541.JPEG,French horn,566,French horn,566,trombone,875
+vit_b_16,10,n03394916/n03394916_42422.JPEG,French horn,566,French horn,566,sax,776
+vit_b_16,10,n03394916/n03394916_43532.JPEG,French horn,566,French horn,566,cornet,513
+vit_b_16,10,n03394916/n03394916_44060.JPEG,French horn,566,French horn,566,theater curtain,854
+vit_b_16,10,n03394916/n03394916_45760.JPEG,French horn,566,French horn,566,maillot,638
+vit_b_16,10,n03394916/n03394916_46941.JPEG,French horn,566,French horn,566,king crab,121
+vit_b_16,10,n03394916/n03394916_47110.JPEG,French horn,566,French horn,566,street sign,919
+vit_b_16,10,n03394916/n03394916_47300.JPEG,French horn,566,French horn,566,swing,843
+vit_b_16,10,n03394916/n03394916_49722.JPEG,French horn,566,French horn,566,trombone,875
+vit_b_16,10,n03394916/n03394916_7000.JPEG,French horn,566,French horn,566,bookcase,453
+vit_b_16,10,n03417042/n03417042_10520.JPEG,garbage truck,569,garbage truck,569,trailer truck,867
+vit_b_16,10,n03417042/n03417042_11000.JPEG,garbage truck,569,garbage truck,569,trolleybus,874
+vit_b_16,10,n03417042/n03417042_12322.JPEG,garbage truck,569,garbage truck,569,crane,517
+vit_b_16,10,n03417042/n03417042_1651.JPEG,garbage truck,569,garbage truck,569,moving van,675
+vit_b_16,10,n03417042/n03417042_18072.JPEG,garbage truck,569,garbage truck,569,moving van,675
+vit_b_16,10,n03417042/n03417042_19020.JPEG,garbage truck,569,garbage truck,569,trailer truck,867
+vit_b_16,10,n03417042/n03417042_201.JPEG,garbage truck,569,garbage truck,569,tow truck,864
+vit_b_16,10,n03417042/n03417042_21270.JPEG,garbage truck,569,garbage truck,569,crane,517
+vit_b_16,10,n03417042/n03417042_22482.JPEG,garbage truck,569,garbage truck,569,trailer truck,867
+vit_b_16,10,n03417042/n03417042_26850.JPEG,garbage truck,569,garbage truck,569,moving van,675
+vit_b_16,10,n03417042/n03417042_28122.JPEG,garbage truck,569,garbage truck,569,trailer truck,867
+vit_b_16,10,n03417042/n03417042_28552.JPEG,garbage truck,569,garbage truck,569,tank,847
+vit_b_16,10,n03417042/n03417042_3231.JPEG,garbage truck,569,garbage truck,569,trailer truck,867
+vit_b_16,10,n03417042/n03417042_3242.JPEG,garbage truck,569,garbage truck,569,limousine,627
+vit_b_16,10,n03417042/n03417042_3600.JPEG,garbage truck,569,garbage truck,569,bow,456
+vit_b_16,10,n03417042/n03417042_3731.JPEG,garbage truck,569,garbage truck,569,moving van,675
+vit_b_16,10,n03417042/n03417042_3862.JPEG,garbage truck,569,garbage truck,569,streetcar,829
+vit_b_16,10,n03417042/n03417042_4462.JPEG,garbage truck,569,garbage truck,569,half track,586
+vit_b_16,10,n03417042/n03417042_4491.JPEG,garbage truck,569,garbage truck,569,jinrikisha,612
+vit_b_16,10,n03417042/n03417042_4511.JPEG,garbage truck,569,garbage truck,569,moving van,675
+vit_b_16,10,n03417042/n03417042_5331.JPEG,garbage truck,569,garbage truck,569,trailer truck,867
+vit_b_16,10,n03417042/n03417042_5952.JPEG,garbage truck,569,garbage truck,569,trailer truck,867
+vit_b_16,10,n03417042/n03417042_742.JPEG,garbage truck,569,garbage truck,569,moving van,675
+vit_b_16,10,n03417042/n03417042_8081.JPEG,garbage truck,569,garbage truck,569,snowplow,803
+vit_b_16,10,n03425413/ILSVRC2012_val_00020951.JPEG,gas pump,571,gas pump,571,torch,862
+vit_b_16,10,n03425413/ILSVRC2012_val_00031412.JPEG,gas pump,571,gas pump,571,bow,456
+vit_b_16,10,n03425413/n03425413_10771.JPEG,gas pump,571,gas pump,571,cash machine,480
+vit_b_16,10,n03425413/n03425413_10792.JPEG,gas pump,571,gas pump,571,pay-phone,707
+vit_b_16,10,n03425413/n03425413_12982.JPEG,gas pump,571,gas pump,571,mobile home,660
+vit_b_16,10,n03425413/n03425413_1351.JPEG,gas pump,571,gas pump,571,safe,771
+vit_b_16,10,n03425413/n03425413_13741.JPEG,gas pump,571,gas pump,571,milk can,653
+vit_b_16,10,n03425413/n03425413_14081.JPEG,gas pump,571,gas pump,571,digital clock,530
+vit_b_16,10,n03425413/n03425413_14682.JPEG,gas pump,571,gas pump,571,switch,844
+vit_b_16,10,n03425413/n03425413_14891.JPEG,gas pump,571,gas pump,571,digital clock,530
+vit_b_16,10,n03425413/n03425413_15571.JPEG,gas pump,571,gas pump,571,pay-phone,707
+vit_b_16,10,n03425413/n03425413_15601.JPEG,gas pump,571,gas pump,571,slot,800
+vit_b_16,10,n03425413/n03425413_16661.JPEG,gas pump,571,gas pump,571,forklift,561
+vit_b_16,10,n03425413/n03425413_18571.JPEG,gas pump,571,gas pump,571,slot,800
+vit_b_16,10,n03425413/n03425413_18830.JPEG,gas pump,571,gas pump,571,minibus,654
+vit_b_16,10,n03425413/n03425413_19020.JPEG,gas pump,571,gas pump,571,tobacco shop,860
+vit_b_16,10,n03425413/n03425413_19271.JPEG,gas pump,571,gas pump,571,guillotine,583
+vit_b_16,10,n03425413/n03425413_20651.JPEG,gas pump,571,gas pump,571,pay-phone,707
+vit_b_16,10,n03425413/n03425413_20742.JPEG,gas pump,571,gas pump,571,toyshop,865
+vit_b_16,10,n03425413/n03425413_21591.JPEG,gas pump,571,gas pump,571,mobile home,660
+vit_b_16,10,n03425413/n03425413_23312.JPEG,gas pump,571,gas pump,571,boathouse,449
+vit_b_16,10,n03425413/n03425413_27052.JPEG,gas pump,571,gas pump,571,disk brake,535
+vit_b_16,10,n03425413/n03425413_3602.JPEG,gas pump,571,gas pump,571,tow truck,864
+vit_b_16,10,n03425413/n03425413_9051.JPEG,gas pump,571,gas pump,571,car mirror,475
+vit_b_16,10,n03445777/ILSVRC2012_val_00020502.JPEG,golf ball,574,golf ball,574,pedestal,708
+vit_b_16,10,n03445777/n03445777_10141.JPEG,golf ball,574,golf ball,574,matchstick,644
+vit_b_16,10,n03445777/n03445777_10750.JPEG,golf ball,574,golf ball,574,geyser,974
+vit_b_16,10,n03445777/n03445777_1291.JPEG,golf ball,574,golf ball,574,baseball,429
+vit_b_16,10,n03445777/n03445777_13672.JPEG,golf ball,574,golf ball,574,tennis ball,852
+vit_b_16,10,n03445777/n03445777_14362.JPEG,golf ball,574,golf ball,574,ping-pong ball,722
+vit_b_16,10,n03445777/n03445777_1971.JPEG,golf ball,574,golf ball,574,loupe,633
+vit_b_16,10,n03445777/n03445777_3011.JPEG,golf ball,574,golf ball,574,ping-pong ball,722
+vit_b_16,10,n03445777/n03445777_4520.JPEG,golf ball,574,golf ball,574,mousetrap,674
+vit_b_16,10,n03445777/n03445777_531.JPEG,golf ball,574,golf ball,574,face powder,551
+vit_b_16,10,n03445777/n03445777_6432.JPEG,golf ball,574,golf ball,574,ballplayer,981
+vit_b_16,10,n03445777/n03445777_8380.JPEG,golf ball,574,golf ball,574,maze,646
+vit_b_16,10,n03445777/n03445777_8712.JPEG,golf ball,574,golf ball,574,earthstar,995
+vit_b_16,10,n03445777/n03445777_8842.JPEG,golf ball,574,golf ball,574,ping-pong ball,722
+vit_b_16,10,n03888257/n03888257_11450.JPEG,parachute,701,parachute,701,solar dish,807
+vit_b_16,10,n03888257/n03888257_12301.JPEG,parachute,701,parachute,701,black stork,128
+vit_b_16,10,n03888257/n03888257_14090.JPEG,parachute,701,parachute,701,necklace,679
+vit_b_16,10,n03888257/n03888257_17031.JPEG,parachute,701,parachute,701,balloon,417
+vit_b_16,10,n03888257/n03888257_18560.JPEG,parachute,701,parachute,701,airship,405
+vit_b_16,10,n03888257/n03888257_18921.JPEG,parachute,701,parachute,701,dogsled,537
+vit_b_16,10,n03888257/n03888257_29090.JPEG,parachute,701,parachute,701,table lamp,846
+vit_b_16,10,n03888257/n03888257_30402.JPEG,parachute,701,parachute,701,Old English sheepdog,229
+vit_b_16,10,n03888257/n03888257_33070.JPEG,parachute,701,parachute,701,Leonberg,255
+vit_b_16,10,n03888257/n03888257_38391.JPEG,parachute,701,parachute,701,steam locomotive,820
+vit_b_16,10,n03888257/n03888257_400.JPEG,parachute,701,parachute,701,balloon,417
+vit_b_16,10,n03888257/n03888257_4042.JPEG,parachute,701,parachute,701,sturgeon,394
+vit_b_16,10,n03888257/n03888257_58392.JPEG,parachute,701,parachute,701,sandbar,977
+vit_b_16,10,n03888257/n03888257_8502.JPEG,parachute,701,parachute,701,airship,405
+vit_b_16,10,n03888257/n03888257_9301.JPEG,parachute,701,parachute,701,bubble,971

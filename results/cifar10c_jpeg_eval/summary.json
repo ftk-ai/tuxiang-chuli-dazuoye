@@ -1,0 +1,22 @@
+{
+  "model": "edadaltocg/resnet18_cifar10",
+  "weights_sha256": "f656242526b567dbd46857276acbcfcb4ee74a7f8a7ae5e56557b7e8fa5d914a",
+  "device": "cpu",
+  "samples_per_level": 10000,
+  "top1_percent": {
+    "Original": 94.98,
+    "JPEG severity 1": 86.46,
+    "JPEG severity 2": 80.07,
+    "JPEG severity 3": 78.07,
+    "JPEG severity 4": 75.29,
+    "JPEG severity 5": 70.87
+  },
+  "original_correct_jpeg_wrong": {
+    "JPEG severity 1": 975,
+    "JPEG severity 2": 1612,
+    "JPEG severity 3": 1820,
+    "JPEG severity 4": 2097,
+    "JPEG severity 5": 2530
+  },
+  "original_correct_any_jpeg_wrong": 3588
+}
